@@ -1,0 +1,10 @@
+.env
+*.db
+*.sqlite
+node_modules/
+.venv*/
+__pycache__/
+*.key
+*.pem
+credentials*
+system/data/

@@ -1,0 +1,108 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Hormuz Watch — Maritime Intelligence Demo</title>
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header>
+  <h1>Hormuz Watch <span class="tag">DEMO / PROTOTYPE</span></h1>
+  <p class="subtitle">AIS-gap / STS-candidate detection — Strait of Hormuz corridor</p>
+</header>
+
+<div id="mode-banner" class="banner replay">
+  <strong>DATA MODE: HISTORICAL REPLAY + LIVE KEYLESS CONTEXT</strong><br>
+  Vessel layer = <strong>one documented historical incident (17 June 2025)</strong> — NOT live.
+  Live layers = sea state / wind (Open-Meteo), earthquakes (USGS), disaster alerts (GDACS).
+  <strong>No live vessel positions are shown.</strong>
+  Live AIS needs the user's free AISStream key — see README.
+</div>
+
+<main>
+  <section id="map-section">
+    <div id="map"></div>
+    <p class="map-note">Base map © OpenStreetMap contributors. Corridor outline is schematic — NOT for navigation.
+      Red marker = H1 replay incident (collision, 2025-06-17). Blue markers = live sea-state waypoints.
+      Orange markers (if any) = USGS earthquakes in corridor, past 24h.</p>
+    <div class="legend">
+      <span><i class="dot red"></i> Historical replay incident</span>
+      <span><i class="dot blue"></i> Live sea-state waypoint</span>
+      <span><i class="dot orange"></i> Live earthquake (USGS, 24h)</span>
+      <span><i class="dot grey"></i> GDACS alert (if any in region)</span>
+    </div>
+  </section>
+
+  <section>
+    <h2>Event table — historical replay</h2>
+    <p class="section-note">Every field traces to the cited public source. This table contains
+      <strong>one</strong> documented incident. It contains <strong>no confirmed STS transfer</strong> —
+      the H1 collision is <strong>not</strong> an STS event.</p>
+    <div class="table-wrap">
+      <table id="events">
+        <thead>
+          <tr><th>ID</th><th>Vessel(s)</th><th>Event type</th><th>Time (UTC)</th>
+          <th>Lat / Lon</th><th>Confidence</th><th>Evidence / provenance</th></tr>
+        </thead>
+        <tbody></tbody>
+      </table>
+    </div>
+    <div id="non-claims" class="callout"></div>
+  </section>
+
+  <section>
+    <h2>Live keyless context <span id="live-fetched" class="muted"></span></h2>
+    <div id="live-panels" class="grid"></div>
+    <p class="muted">Fetched by <code>pipeline/fetch_live.py</code> from keyless public feeds.
+      Refresh: re-run the script (see README). No vessel data in this panel.</p>
+  </section>
+
+  <section>
+    <h2>How detection works (activates with live AIS)</h2>
+    <div class="grid">
+      <div class="card">
+        <h3>AIS-gap event</h3>
+        <p>One vessel's consecutive position reports inside the corridor are separated by
+          more than <strong>6 hours</strong> (default, tunable). Consistent with AIS switched off,
+          a receiver gap, or spoofing. <strong>Never</strong> proof of wrongdoing.</p>
+      </div>
+      <div class="card">
+        <h3>STS candidate</h3>
+        <p>Two vessels stay within <strong>0.5 nautical miles</strong>, both at
+          <strong>≤ 2 knots</strong>, continuously for <strong>≥ 30 minutes</strong> (defaults, tunable).
+          Consistent with a ship-to-ship transfer, joint anchorage, bunkering, or coincidence.
+          <strong>Not</strong> proof of a transfer and <strong>not</strong> a sanctions finding.</p>
+      </div>
+      <div class="card">
+        <h3>Human review required</h3>
+        <p>Every detector output is labelled <em>candidate</em>. Before any alert is sent or published:
+          check the raw messages, check against satellite / port data, and never label a vessel
+          "sanctioned" without an official sanctions-list match. See README → Legal red lines.</p>
+      </div>
+    </div>
+    <p>Pipeline: <code>AISStream (needs free key) → pipeline/aisstream_client.py → data/ais_raw.jsonl →
+      pipeline/detect.py → data/detected_events.json</code>. Detector logic is unit-tested on
+      labelled-synthetic fixtures (<code>pipeline/test_detect.py</code>).</p>
+  </section>
+
+  <section>
+    <h2>Coverage &amp; honesty notes</h2>
+    <ul>
+      <li>Free terrestrial AIS (AISStream) has regional gaps and latency; open-ocean satellite AIS is a paid layer this demo does not have.</li>
+      <li>Replay coordinates for H1 come from a single public source (TankerTrackers.com via Lokmat Times) and were not independently verified.</li>
+      <li>The "shadow fleet" description of ADALYNN is an <strong>unverified media characterization</strong>. This demo makes no sanctions claim.</li>
+      <li>GPS/electronic interference near Hormuz is reported context for June 2025, not a proven cause of the H1 collision (assessed as a navigational incident).</li>
+    </ul>
+  </section>
+</main>
+
+<footer>
+  <p>Maritime-intel demo · Prototype, not a production system · Sources &amp; licensing: README.md + LICENSE-NOTES.md</p>
+</footer>
+
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+<script src="app.js"></script>
+</body>
+</html>

@@ -1,0 +1,27 @@
+/* Hormuz Watch demo — minimal, readable, no build step. */
+body { font-family: system-ui, -apple-system, "Segoe UI", sans-serif; margin: 0; color: #1a1a1a; background: #f7f7f5; }
+header { background: #0b2536; color: #fff; padding: 18px 22px; }
+header h1 { margin: 0; font-size: 1.5rem; }
+.tag { background: #f5b301; color: #111; font-size: 0.7rem; padding: 3px 8px; border-radius: 4px; vertical-align: middle; }
+.subtitle { margin: 6px 0 0; opacity: 0.85; }
+.banner { padding: 14px 22px; line-height: 1.5; border-bottom: 3px solid #b00020; background: #fff3f3; }
+.banner strong { color: #7a0013; }
+main { max-width: 1100px; margin: 0 auto; padding: 16px 22px 40px; }
+#map { height: 520px; border: 1px solid #ccc; border-radius: 6px; background: #dceef5; }
+.map-note, .section-note, .muted { color: #555; font-size: 0.9rem; line-height: 1.5; }
+.legend { margin-top: 8px; font-size: 0.85rem; display: flex; gap: 18px; flex-wrap: wrap; }
+.dot { display: inline-block; width: 12px; height: 12px; border-radius: 50%; vertical-align: middle; }
+.dot.red { background: #d00; } .dot.blue { background: #1a6fd4; }
+.dot.orange { background: #e67e00; } .dot.grey { background: #777; }
+h2 { border-bottom: 2px solid #0b2536; padding-bottom: 4px; margin-top: 30px; }
+.table-wrap { overflow-x: auto; }
+table { border-collapse: collapse; width: 100%; background: #fff; }
+th, td { border: 1px solid #ddd; padding: 8px 10px; text-align: left; vertical-align: top; font-size: 0.9rem; }
+th { background: #0b2536; color: #fff; }
+td ul { margin: 4px 0 0 16px; padding: 0; }
+.grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 14px; }
+.card { background: #fff; border: 1px solid #ddd; border-radius: 6px; padding: 14px; }
+.callout { background: #fff8e1; border: 1px solid #f5b301; border-radius: 6px; padding: 12px 14px; margin-top: 14px; }
+.callout ul { margin: 6px 0 0 18px; }
+code { background: #eef0f2; padding: 1px 5px; border-radius: 3px; font-size: 0.85em; }
+footer { text-align: center; color: #666; font-size: 0.85rem; padding: 18px; border-top: 1px solid #ddd; }
