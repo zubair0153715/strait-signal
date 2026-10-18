@@ -1,0 +1,2 @@
+SETUP NEEDED: no AISSTREAM_API_KEY in env and no /home/hatch/.config/strait-signal/aisstream.key
+Create the key file (editor, not echo) per the header of this script, then re-run.

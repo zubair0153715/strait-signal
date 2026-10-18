@@ -1,10 +1,15 @@
 .env
 *.db
 *.sqlite
+*.mp4
+*.mp3
+*.onnx
+*.png
+*.jpg
+*.jpeg
 node_modules/
 .venv*/
 __pycache__/
 *.key
 *.pem
 credentials*
-system/data/

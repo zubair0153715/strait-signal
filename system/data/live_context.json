@@ -1,0 +1,103 @@
+{
+  "data_mode": "LIVE KEYLESS CONTEXT (weather/sea + earthquakes + disaster alerts). NO live vessel data \u2014 that needs the AISStream key.",
+  "fetched_at_utc": "2026-10-13T14:12:02.959982+00:00",
+  "corridor_bbox": {
+    "lat_min": 23.0,
+    "lat_max": 29.0,
+    "lon_min": 50.0,
+    "lon_max": 61.0
+  },
+  "marine_weather": [
+    {
+      "waypoint": {
+        "id": "hormuz-west",
+        "label": "Strait of Hormuz \u2014 west entrance",
+        "lat": 26.55,
+        "lon": 56.25
+      },
+      "sources": [
+        "https://marine-api.open-meteo.com/v1/marine?latitude=26.55&longitude=56.25&hourly=wave_height,wave_direction,wave_period,sea_surface_temperature&forecast_days=1&timezone=UTC",
+        "https://api.open-meteo.com/v1/forecast?latitude=26.55&longitude=56.25&hourly=wind_speed_10m,wind_direction_10m,wind_gusts_10m&wind_speed_unit=kn&forecast_days=1&timezone=UTC"
+      ],
+      "status": "ok",
+      "marine": {
+        "time_utc": "2026-10-13T14:00",
+        "wave_height_m": 0.18,
+        "wave_direction_deg": 131,
+        "wave_period_s": 3.8,
+        "sea_surface_temperature_c": 31.9
+      },
+      "wind": {
+        "time_utc": "2026-10-13T14:00",
+        "wind_speed_10m_kn": 7.9,
+        "wind_direction_10m_deg": 218,
+        "wind_gusts_10m_kn": 10.7
+      }
+    },
+    {
+      "waypoint": {
+        "id": "hormuz-east",
+        "label": "Strait of Hormuz \u2014 east exit / Gulf of Oman",
+        "lat": 25.8,
+        "lon": 57.2
+      },
+      "sources": [
+        "https://marine-api.open-meteo.com/v1/marine?latitude=25.8&longitude=57.2&hourly=wave_height,wave_direction,wave_period,sea_surface_temperature&forecast_days=1&timezone=UTC",
+        "https://api.open-meteo.com/v1/forecast?latitude=25.8&longitude=57.2&hourly=wind_speed_10m,wind_direction_10m,wind_gusts_10m&wind_speed_unit=kn&forecast_days=1&timezone=UTC"
+      ],
+      "status": "ok",
+      "marine": {
+        "time_utc": "2026-10-13T14:00",
+        "wave_height_m": 0.42,
+        "wave_direction_deg": 132,
+        "wave_period_s": 7.55,
+        "sea_surface_temperature_c": 31.8
+      },
+      "wind": {
+        "time_utc": "2026-10-13T14:00",
+        "wind_speed_10m_kn": 3.7,
+        "wind_direction_10m_deg": 267,
+        "wind_gusts_10m_kn": 5.2
+      }
+    },
+    {
+      "waypoint": {
+        "id": "replay-site",
+        "label": "H1 replay site vicinity (Gulf of Oman)",
+        "lat": 25.29,
+        "lon": 56.79
+      },
+      "sources": [
+        "https://marine-api.open-meteo.com/v1/marine?latitude=25.29&longitude=56.79&hourly=wave_height,wave_direction,wave_period,sea_surface_temperature&forecast_days=1&timezone=UTC",
+        "https://api.open-meteo.com/v1/forecast?latitude=25.29&longitude=56.79&hourly=wind_speed_10m,wind_direction_10m,wind_gusts_10m&wind_speed_unit=kn&forecast_days=1&timezone=UTC"
+      ],
+      "status": "ok",
+      "marine": {
+        "time_utc": "2026-10-13T14:00",
+        "wave_height_m": 0.44,
+        "wave_direction_deg": 106,
+        "wave_period_s": 6.4,
+        "sea_surface_temperature_c": 32.1
+      },
+      "wind": {
+        "time_utc": "2026-10-13T14:00",
+        "wind_speed_10m_kn": 2.7,
+        "wind_direction_10m_deg": 69,
+        "wind_gusts_10m_kn": 3.9
+      }
+    }
+  ],
+  "earthquakes": {
+    "status": "ok",
+    "source": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_day.geojson",
+    "generated": 1791900721000,
+    "total_worldwide_past_day": 217,
+    "events_in_corridor": []
+  },
+  "gdacs_alerts": {
+    "status": "ok",
+    "source": "https://www.gdacs.org/xml/rss.xml",
+    "events": []
+  },
+  "provenance": "Each section carries its source URL. Timestamps are fetch time (UTC) plus the source's own per-record time fields."
+}

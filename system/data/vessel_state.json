@@ -1,0 +1,3005 @@
+{
+ "updated_at_utc": "2026-10-13T21:47:33.077044+00:00",
+ "vessels": {
+  "994701076": {
+   "mmsi": "994701076",
+   "message_count": 12,
+   "last_seen_utc": "2026-10-13 21:44:53.108088445 +0000 UTC",
+   "ship_name": "AL KAMDA",
+   "latitude": 25.093925000000002,
+   "longitude": 55.13736333333333,
+   "sog_knots": 0,
+   "cog_deg": 360,
+   "true_heading": 511,
+   "last_position_utc": "2026-10-13 21:25:02.783842956 +0000 UTC"
+  },
+  "538009951": {
+   "mmsi": "538009951",
+   "message_count": 11,
+   "last_seen_utc": "2026-10-13 21:17:34.435962365 +0000 UTC",
+   "ship_name": "TB LINHAI           ",
+   "latitude": 25.023788333333336,
+   "longitude": 55.053985,
+   "sog_knots": 0,
+   "cog_deg": 193.2,
+   "true_heading": 259,
+   "last_position_utc": "2026-10-13 21:17:34.435962365 +0000 UTC",
+   "call_sign": "V7A5382",
+   "destination": "CHINA OWNER         ",
+   "eta": {
+    "Day": 13,
+    "Hour": 0,
+    "Minute": 0,
+    "Month": 10
+   },
+   "dimension": {
+    "A": 165,
+    "B": 18,
+    "C": 12,
+    "D": 13
+   }
+  },
+  "471052000": {
+   "mmsi": "471052000",
+   "message_count": 19,
+   "last_seen_utc": "2026-10-13 21:30:08.167461277 +0000 UTC",
+   "ship_name": "WHITING ANN",
+   "latitude": 25.20124333333333,
+   "longitude": 55.170764999999996,
+   "sog_knots": 0,
+   "cog_deg": 360,
+   "true_heading": 511,
+   "last_position_utc": "2026-10-13 21:30:08.167461277 +0000 UTC"
+  },
+  "577633000": {
+   "mmsi": "577633000",
+   "message_count": 37,
+   "last_seen_utc": "2026-10-13 21:46:53.246614448 +0000 UTC",
+   "ship_name": "CHRISTINA TIDE      ",
+   "latitude": 25.26789,
+   "longitude": 55.257378333333335,
+   "sog_knots": 0,
+   "cog_deg": 179.8,
+   "true_heading": 194,
+   "last_position_utc": "2026-10-13 21:46:53.246614448 +0000 UTC",
+   "call_sign": "YJSZ9  ",
+   "destination": "JEBEL ALIDUBAI      ",
+   "eta": {
+    "Day": 18,
+    "Hour": 2,
+    "Minute": 0,
+    "Month": 8
+   },
+   "dimension": {
+    "A": 15,
+    "B": 45,
+    "C": 5,
+    "D": 11
+   }
+  },
+  "341939001": {
+   "mmsi": "341939001",
+   "message_count": 33,
+   "last_seen_utc": "2026-10-13 21:47:15.043723044 +0000 UTC",
+   "ship_name": "AARNA               ",
+   "latitude": 25.097005000000003,
+   "longitude": 55.14249333333333,
+   "sog_knots": 0,
+   "cog_deg": 360,
+   "true_heading": 511,
+   "last_position_utc": "2026-10-13 21:47:15.043723044 +0000 UTC",
+   "call_sign": "V4LJ6  ",
+   "destination": "                    ",
+   "eta": {
+    "Day": 0,
+    "Hour": 24,
+    "Minute": 60,
+    "Month": 0
+   },
+   "dimension": {
+    "A": 20,
+    "B": 6,
+    "C": 4,
+    "D": 2
+   }
+  },
+  "376172000": {
+   "mmsi": "376172000",
+   "message_count": 20,
+   "last_seen_utc": "2026-10-13 21:45:15.101997965 +0000 UTC",
+   "ship_name": "J8B5057",
+   "call_sign": "J8B5057",
+   "destination": "DMC                 ",
+   "eta": {
+    "Day": 8,
+    "Hour": 6,
+    "Minute": 0,
+    "Month": 8
+   },
+   "dimension": {
+    "A": 17,
+    "B": 48,
+    "C": 6,
+    "D": 14
+   },
+   "latitude": 25.271408333333333,
+   "longitude": 55.25719333333333,
+   "sog_knots": 0,
+   "cog_deg": 75,
+   "true_heading": 103,
+   "last_position_utc": "2026-10-13 21:39:47.254713368 +0000 UTC"
+  },
+  "471547000": {
+   "mmsi": "471547000",
+   "message_count": 1,
+   "last_seen_utc": "2026-10-13 19:51:17.266505336 +0000 UTC",
+   "ship_name": "PHENOM 2"
+  },
+  "518999808": {
+   "mmsi": "518999808",
+   "message_count": 11,
+   "last_seen_utc": "2026-10-13 21:40:41.790148272 +0000 UTC",
+   "ship_name": "BAHIA",
+   "latitude": 25.072709999999997,
+   "longitude": 55.13464833333333,
+   "sog_knots": 0,
+   "cog_deg": 33.4,
+   "true_heading": 511,
+   "last_position_utc": "2026-10-13 21:28:40.865543114 +0000 UTC"
+  },
+  "471252000": {
+   "mmsi": "471252000",
+   "message_count": 14,
+   "last_seen_utc": "2026-10-13 21:30:18.967933715 +0000 UTC",
+   "ship_name": "BEHIKE",
+   "call_sign": "A6E2831",
+   "destination": "DUBAI CRUISING",
+   "eta": {
+    "Day": 18,
+    "Hour": 19,
+    "Minute": 0,
+    "Month": 10
+   },
+   "dimension": {
+    "A": 43,
+    "B": 0,
+    "C": 0,
+    "D": 9
+   },
+   "latitude": 25.096774999999997,
+   "longitude": 55.14320166666666,
+   "sog_knots": 0,
+   "cog_deg": 360,
+   "true_heading": 511,
+   "last_position_utc": "2026-10-13 21:30:18.967933715 +0000 UTC"
+  },
+  "538003607": {
+   "mmsi": "538003607",
+   "message_count": 24,
+   "last_seen_utc": "2026-10-13 21:46:53.35520281 +0000 UTC",
+   "ship_name": "SEAFOX BURJ",
+   "latitude": 25.260888333333334,
+   "longitude": 55.26482,
+   "sog_knots": 0,
+   "cog_deg": 360,
+   "true_heading": 511,
+   "last_position_utc": "2026-10-13 21:46:53.35520281 +0000 UTC"
+  },
+  "470049000": {
+   "mmsi": "470049000",
+   "message_count": 9,
+   "last_seen_utc": "2026-10-13 21:09:11.919339077 +0000 UTC",
+   "ship_name": "DTA DEAN ANDREW     ",
+   "call_sign": "A6E2279",
+   "destination": "DUBAI UAE           ",
+   "eta": {
+    "Day": 24,
+    "Hour": 22,
+    "Minute": 0,
+    "Month": 4
+   },
+   "dimension": {
+    "A": 22,
+    "B": 20,
+    "C": 7,
+    "D": 3
+   },
+   "latitude": 25.270519999999998,
+   "longitude": 55.283665,
+   "sog_knots": 0,
+   "cog_deg": 137.9,
+   "true_heading": 511,
+   "last_position_utc": "2026-10-13 21:09:11.919339077 +0000 UTC"
+  },
+  "471261000": {
+   "mmsi": "471261000",
+   "message_count": 17,
+   "last_seen_utc": "2026-10-13 21:44:09.59720806 +0000 UTC",
+   "ship_name": "XCLUSIVE 16",
+   "latitude": 25.074268333333336,
+   "longitude": 55.13632,
+   "sog_knots": 0,
+   "cog_deg": 360,
+   "true_heading": 511,
+   "last_position_utc": "2026-10-13 21:44:09.59720806 +0000 UTC"
+  },
+  "311000821": {
+   "mmsi": "311000821",
+   "message_count": 2,
+   "last_seen_utc": "2026-10-13 20:21:30.280743094 +0000 UTC",
+   "ship_name": "WADAD ALETHEIA",
+   "call_sign": "C6DY8",
+   "destination": "DUBAI DRYDOCK",
+   "eta": {
+    "Day": 25,
+    "Hour": 4,
+    "Minute": 0,
+    "Month": 9
+   },
+   "dimension": {
+    "A": 0,
+    "B": 0,
+    "C": 0,
+    "D": 0
+   },
+   "latitude": 25.254795,
+   "longitude": 55.26964833333333,
+   "sog_knots": 0,
+   "cog_deg": 154.9,
+   "true_heading": 135,
+   "last_position_utc": "2026-10-13 20:21:30.280743094 +0000 UTC"
+  },
+  "538010384": {
+   "mmsi": "538010384",
+   "message_count": 1,
+   "last_seen_utc": "2026-10-13 19:51:50.096657387 +0000 UTC",
+   "ship_name": "STAR GRAND          ",
+   "latitude": 25.270191666666665,
+   "longitude": 55.28319833333333,
+   "sog_knots": 0,
+   "cog_deg": 13.1,
+   "true_heading": 140,
+   "last_position_utc": "2026-10-13 19:51:50.096657387 +0000 UTC"
+  },
+  "470000000": {
+   "mmsi": "470000000",
+   "message_count": 33,
+   "last_seen_utc": "2026-10-13 21:45:26.562349993 +0000 UTC",
+   "ship_name": "PLC-03              ",
+   "latitude": 25.072013333333334,
+   "longitude": 55.13419333333333,
+   "sog_knots": 0,
+   "cog_deg": 360,
+   "true_heading": 511,
+   "last_position_utc": "2026-10-13 21:45:26.562349993 +0000 UTC",
+   "call_sign": "12",
+   "destination": "                   ",
+   "eta": {
+    "Day": 1,
+    "Hour": 1,
+    "Minute": 1,
+    "Month": 1
+   },
+   "dimension": {
+    "A": 8,
+    "B": 3,
+    "C": 1,
+    "D": 2
+   }
+  },
+  "246643000": {
+   "mmsi": "246643000",
+   "message_count": 29,
+   "last_seen_utc": "2026-10-13 21:44:53.193426804 +0000 UTC",
+   "ship_name": "SEA BULLDOG         ",
+   "latitude": 25.17601,
+   "longitude": 55.209089999999996,
+   "sog_knots": 0,
+   "cog_deg": 157.1,
+   "true_heading": 49,
+   "last_position_utc": "2026-10-13 21:44:53.193426804 +0000 UTC"
+  },
+  "352003326": {
+   "mmsi": "352003326",
+   "message_count": 6,
+   "last_seen_utc": "2026-10-13 21:27:57.152896058 +0000 UTC",
+   "ship_name": "3E7485 ",
+   "latitude": 25.273051666666667,
+   "longitude": 55.26097666666667,
+   "sog_knots": 0,
+   "cog_deg": 94.1,
+   "true_heading": 190,
+   "last_position_utc": "2026-10-13 20:58:16.668585002 +0000 UTC",
+   "call_sign": "3E7485 ",
+   "destination": "UAE DUBAI DMC       ",
+   "eta": {
+    "Day": 2,
+    "Hour": 14,
+    "Minute": 0,
+    "Month": 10
+   },
+   "dimension": {
+    "A": 16,
+    "B": 49,
+    "C": 5,
+    "D": 11
+   }
+  },
+  "576215000": {
+   "mmsi": "576215000",
+   "message_count": 5,
+   "last_seen_utc": "2026-10-13 20:24:57.769753971 +0000 UTC",
+   "ship_name": "GARZA TIDE          ",
+   "latitude": 25.099024999999997,
+   "longitude": 55.00044666666667,
+   "sog_knots": 7.8,
+   "cog_deg": 317.1,
+   "true_heading": 320,
+   "last_position_utc": "2026-10-13 20:24:57.769753971 +0000 UTC"
+  },
+  "341353001": {
+   "mmsi": "341353001",
+   "message_count": 18,
+   "last_seen_utc": "2026-10-13 21:41:14.814293863 +0000 UTC",
+   "ship_name": "SF HUMA             ",
+   "latitude": 25.26526833333333,
+   "longitude": 55.25897333333333,
+   "sog_knots": 0,
+   "cog_deg": 360,
+   "true_heading": 207,
+   "last_position_utc": "2026-10-13 21:41:14.814293863 +0000 UTC",
+   "call_sign": "V4OV5  ",
+   "destination": "                    ",
+   "eta": {
+    "Day": 0,
+    "Hour": 0,
+    "Minute": 0,
+    "Month": 0
+   },
+   "dimension": {
+    "A": 6,
+    "B": 15,
+    "C": 3,
+    "D": 4
+   }
+  },
+  "245810000": {
+   "mmsi": "245810000",
+   "message_count": 21,
+   "last_seen_utc": "2026-10-13 21:46:42.337402609 +0000 UTC",
+   "ship_name": "PBZB   ",
+   "call_sign": "PBZB   ",
+   "destination": "AE DXB              ",
+   "eta": {
+    "Day": 10,
+    "Hour": 20,
+    "Minute": 0,
+    "Month": 12
+   },
+   "dimension": {
+    "A": 89,
+    "B": 47,
+    "C": 21,
+    "D": 7
+   },
+   "latitude": 25.187945,
+   "longitude": 55.20525333333333,
+   "sog_knots": 0,
+   "cog_deg": 63.7,
+   "true_heading": 130,
+   "last_position_utc": "2026-10-13 21:27:57.020017237 +0000 UTC"
+  },
+  "248311000": {
+   "mmsi": "248311000",
+   "message_count": 13,
+   "last_seen_utc": "2026-10-13 21:44:21.434888738 +0000 UTC",
+   "ship_name": "INDIGO STAR 1",
+   "call_sign": "9HA4604",
+   "destination": "SEA TRIAL",
+   "eta": {
+    "Day": 13,
+    "Hour": 8,
+    "Minute": 0,
+    "Month": 10
+   },
+   "dimension": {
+    "A": 30,
+    "B": 8,
+    "C": 4,
+    "D": 4
+   },
+   "latitude": 25.28799666666667,
+   "longitude": 55.29095333333333,
+   "sog_knots": 0,
+   "cog_deg": 180.1,
+   "true_heading": 73,
+   "last_position_utc": "2026-10-13 21:44:21.434888738 +0000 UTC"
+  },
+  "471502000": {
+   "mmsi": "471502000",
+   "message_count": 17,
+   "last_seen_utc": "2026-10-13 21:38:20.002224043 +0000 UTC",
+   "ship_name": "MAY 1",
+   "latitude": 25.089878333333335,
+   "longitude": 55.14138833333333,
+   "sog_knots": 0,
+   "cog_deg": 360,
+   "true_heading": 511,
+   "last_position_utc": "2026-10-13 21:37:47.121022468 +0000 UTC"
+  },
+  "244030951": {
+   "mmsi": "244030951",
+   "message_count": 28,
+   "last_seen_utc": "2026-10-13 21:31:25.012161782 +0000 UTC",
+   "ship_name": "GTO 202             ",
+   "latitude": 25.18245166666667,
+   "longitude": 55.20456,
+   "sog_knots": 0,
+   "cog_deg": 360,
+   "true_heading": 511,
+   "last_position_utc": "2026-10-13 21:31:25.012161782 +0000 UTC",
+   "call_sign": "PCSD   ",
+   "destination": "DUBAI               ",
+   "eta": {
+    "Day": 0,
+    "Hour": 0,
+    "Minute": 0,
+    "Month": 0
+   },
+   "dimension": {
+    "A": 30,
+    "B": 20,
+    "C": 8,
+    "D": 5
+   }
+  },
+  "232052052": {
+   "mmsi": "232052052",
+   "message_count": 12,
+   "last_seen_utc": "2026-10-13 21:32:41.122219167 +0000 UTC",
+   "ship_name": "MOOK5  ",
+   "latitude": 25.191791666666667,
+   "longitude": 55.203853333333335,
+   "sog_knots": 0,
+   "cog_deg": 104.7,
+   "true_heading": 109,
+   "last_position_utc": "2026-10-13 21:19:45.523229659 +0000 UTC",
+   "call_sign": "MOOK5  ",
+   "destination": "DUBAI               ",
+   "eta": {
+    "Day": 28,
+    "Hour": 20,
+    "Minute": 0,
+    "Month": 6
+   },
+   "dimension": {
+    "A": 14,
+    "B": 13,
+    "C": 1,
+    "D": 11
+   }
+  },
+  "471369000": {
+   "mmsi": "471369000",
+   "message_count": 7,
+   "last_seen_utc": "2026-10-13 21:34:52.286573718 +0000 UTC",
+   "latitude": 25.09454,
+   "longitude": 55.13895,
+   "sog_knots": 0,
+   "cog_deg": 267.7,
+   "true_heading": 511,
+   "last_position_utc": "2026-10-13 21:34:52.286573718 +0000 UTC",
+   "ship_name": "POSEIDON"
+  },
+  "471573000": {
+   "mmsi": "471573000",
+   "message_count": 6,
+   "last_seen_utc": "2026-10-13 21:40:42.02903281 +0000 UTC",
+   "ship_name": "BELLA",
+   "latitude": 25.091548333333332,
+   "longitude": 55.14103333333333,
+   "sog_knots": 0,
+   "cog_deg": 121.8,
+   "true_heading": 511,
+   "last_position_utc": "2026-10-13 21:40:42.02903281 +0000 UTC"
+  },
+  "620999443": {
+   "mmsi": "620999443",
+   "message_count": 7,
+   "last_seen_utc": "2026-10-13 21:23:13.191633771 +0000 UTC",
+   "ship_name": "AMITIS@@@@@@        ",
+   "latitude": 25.264208333333332,
+   "longitude": 55.27491833333333,
+   "sog_knots": 3.3,
+   "cog_deg": 263.1,
+   "true_heading": 511,
+   "last_position_utc": "2026-10-13 21:23:13.191633771 +0000 UTC"
+  },
+  "470826000": {
+   "mmsi": "470826000",
+   "message_count": 10,
+   "last_seen_utc": "2026-10-13 21:25:56.965683857 +0000 UTC",
+   "ship_name": "AL GHWEIFAT",
+   "latitude": 25.247921666666667,
+   "longitude": 55.266353333333335,
+   "sog_knots": 0,
+   "cog_deg": 51.2,
+   "true_heading": 297,
+   "last_position_utc": "2026-10-13 21:25:56.965683857 +0000 UTC",
+   "call_sign": "A6E2990",
+   "destination": "DMC DD DUBAI",
+   "eta": {
+    "Day": 4,
+    "Hour": 11,
+    "Minute": 0,
+    "Month": 10
+   },
+   "dimension": {
+    "A": 10,
+    "B": 10,
+    "C": 10,
+    "D": 10
+   }
+  },
+  "241959000": {
+   "mmsi": "241959000",
+   "message_count": 1,
+   "last_seen_utc": "2026-10-13 19:52:55.633366506 +0000 UTC",
+   "ship_name": "METRO MISTRAL       ",
+   "latitude": 25.41871666666667,
+   "longitude": 55.03115666666667,
+   "sog_knots": 0,
+   "cog_deg": 360,
+   "true_heading": 348,
+   "last_position_utc": "2026-10-13 19:52:55.633366506 +0000 UTC"
+  },
+  "470346000": {
+   "mmsi": "470346000",
+   "message_count": 35,
+   "last_seen_utc": "2026-10-13 21:46:09.599687435 +0000 UTC",
+   "ship_name": "RED SEA II",
+   "latitude": 25.055465,
+   "longitude": 55.076609999999995,
+   "sog_knots": 0.2,
+   "cog_deg": 360,
+   "true_heading": 511,
+   "last_position_utc": "2026-10-13 21:46:09.599687435 +0000 UTC",
+   "call_sign": "A6E2661",
+   "destination": "                   ",
+   "eta": {
+    "Day": 1,
+    "Hour": 1,
+    "Minute": 1,
+    "Month": 1
+   },
+   "dimension": {
+    "A": 0,
+    "B": 0,
+    "C": 0,
+    "D": 0
+   }
+  },
+  "470702000": {
+   "mmsi": "470702000",
+   "message_count": 5,
+   "last_seen_utc": "2026-10-13 20:15:51.594148933 +0000 UTC",
+   "ship_name": "VOODOO 27",
+   "latitude": 25.09068166666667,
+   "longitude": 55.139300000000006,
+   "sog_knots": 5.6,
+   "cog_deg": 132.3,
+   "true_heading": 511,
+   "last_position_utc": "2026-10-13 20:15:51.594148933 +0000 UTC"
+  },
+  "246515000": {
+   "mmsi": "246515000",
+   "message_count": 36,
+   "last_seen_utc": "2026-10-13 21:45:15.02197998 +0000 UTC",
+   "ship_name": "COASTAL RANGER      ",
+   "latitude": 25.182216666666665,
+   "longitude": 55.204820000000005,
+   "sog_knots": 0.1,
+   "cog_deg": 41.8,
+   "true_heading": 511,
+   "last_position_utc": "2026-10-13 21:45:15.02197998 +0000 UTC",
+   "call_sign": "PHFH   ",
+   "destination": "   ?                ",
+   "eta": {
+    "Day": 8,
+    "Hour": 8,
+    "Minute": 0,
+    "Month": 7
+   },
+   "dimension": {
+    "A": 8,
+    "B": 18,
+    "C": 4,
+    "D": 5
+   }
+  },
+  "471284000": {
+   "mmsi": "471284000",
+   "message_count": 15,
+   "last_seen_utc": "2026-10-13 21:38:41.832111502 +0000 UTC",
+   "ship_name": "XCLUSIVE 1",
+   "latitude": 25.07384,
+   "longitude": 55.13619833333333,
+   "sog_knots": 0,
+   "cog_deg": 360,
+   "true_heading": 511,
+   "last_position_utc": "2026-10-13 21:38:41.832111502 +0000 UTC"
+  },
+  "339927000": {
+   "mmsi": "339927000",
+   "message_count": 16,
+   "last_seen_utc": "2026-10-13 21:44:20.974484382 +0000 UTC",
+   "ship_name": "THUNDER             ",
+   "latitude": 25.096041666666668,
+   "longitude": 55.14505,
+   "sog_knots": 0,
+   "cog_deg": 220.6,
+   "true_heading": 42,
+   "last_position_utc": "2026-10-13 21:44:20.974484382 +0000 UTC",
+   "call_sign": "6YUK9  ",
+   "destination": "DUBAI_HARBOUR       ",
+   "eta": {
+    "Day": 12,
+    "Hour": 15,
+    "Minute": 33,
+    "Month": 5
+   },
+   "dimension": {
+    "A": 19,
+    "B": 30,
+    "C": 8,
+    "D": 1
+   }
+  },
+  "319343700": {
+   "mmsi": "319343700",
+   "message_count": 14,
+   "last_seen_utc": "2026-10-13 21:45:36.86128008 +0000 UTC",
+   "ship_name": "PRESTIGE",
+   "latitude": 25.099488333333333,
+   "longitude": 55.14472,
+   "sog_knots": 0,
+   "cog_deg": 360,
+   "true_heading": 511,
+   "last_position_utc": "2026-10-13 21:31:57.240176085 +0000 UTC"
+  },
+  "319039800": {
+   "mmsi": "319039800",
+   "message_count": 13,
+   "last_seen_utc": "2026-10-13 21:27:24.445995439 +0000 UTC",
+   "ship_name": "ZGED8",
+   "latitude": 25.0994,
+   "longitude": 55.14619833333334,
+   "sog_knots": 0,
+   "cog_deg": 295.6,
+   "true_heading": 42,
+   "last_position_utc": "2026-10-13 20:44:15.717242698 +0000 UTC",
+   "call_sign": "ZGED8",
+   "destination": "DUBAI",
+   "eta": {
+    "Day": 4,
+    "Hour": 19,
+    "Minute": 0,
+    "Month": 11
+   },
+   "dimension": {
+    "A": 29,
+    "B": 47,
+    "C": 5,
+    "D": 5
+   }
+  },
+  "620999727": {
+   "mmsi": "620999727",
+   "message_count": 20,
+   "last_seen_utc": "2026-10-13 21:46:42.338901793 +0000 UTC",
+   "ship_name": "SEA STAR 9          ",
+   "latitude": 25.302556666666664,
+   "longitude": 55.33532,
+   "sog_knots": 0,
+   "cog_deg": 360,
+   "true_heading": 511,
+   "last_position_utc": "2026-10-13 21:46:42.338901793 +0000 UTC"
+  },
+  "470580000": {
+   "mmsi": "470580000",
+   "message_count": 9,
+   "last_seen_utc": "2026-10-13 21:29:24.46040136 +0000 UTC",
+   "ship_name": "AL BAHAR 10",
+   "latitude": 25.269965,
+   "longitude": 55.28274,
+   "sog_knots": 0,
+   "cog_deg": 360,
+   "true_heading": 511,
+   "last_position_utc": "2026-10-13 21:29:24.46040136 +0000 UTC"
+  },
+  "341461002": {
+   "mmsi": "341461002",
+   "message_count": 16,
+   "last_seen_utc": "2026-10-13 21:44:31.260465179 +0000 UTC",
+   "ship_name": "SPECTRE",
+   "latitude": 25.096418333333336,
+   "longitude": 55.141958333333335,
+   "sog_knots": 0,
+   "cog_deg": 360,
+   "true_heading": 511,
+   "last_position_utc": "2026-10-13 21:44:31.260465179 +0000 UTC"
+  },
+  "620671000": {
+   "mmsi": "620671000",
+   "message_count": 16,
+   "last_seen_utc": "2026-10-13 21:41:25.656029331 +0000 UTC",
+   "ship_name": "SKATE 3D",
+   "latitude": 25.173009999999998,
+   "longitude": 55.210265,
+   "sog_knots": 0,
+   "cog_deg": 360,
+   "true_heading": 511,
+   "last_position_utc": "2026-10-13 21:41:25.656029331 +0000 UTC",
+   "call_sign": "D6A2671",
+   "destination": "MUSSAFF ANCHORGE",
+   "eta": {
+    "Day": 25,
+    "Hour": 15,
+    "Minute": 0,
+    "Month": 2
+   },
+   "dimension": {
+    "A": 15,
+    "B": 3,
+    "C": 8,
+    "D": 4
+   }
+  },
+  "538007328": {
+   "mmsi": "538007328",
+   "message_count": 10,
+   "last_seen_utc": "2026-10-13 21:39:25.540649031 +0000 UTC",
+   "ship_name": "TOPAZ PECHORA",
+   "latitude": 25.246055000000002,
+   "longitude": 55.26493666666667,
+   "sog_knots": 0,
+   "cog_deg": 190.7,
+   "true_heading": 302,
+   "last_position_utc": "2026-10-13 21:39:25.540649031 +0000 UTC",
+   "call_sign": "V7JM8",
+   "destination": "DDD",
+   "eta": {
+    "Day": 7,
+    "Hour": 8,
+    "Minute": 0,
+    "Month": 10
+   },
+   "dimension": {
+    "A": 16,
+    "B": 107,
+    "C": 6,
+    "D": 10
+   }
+  },
+  "471092000": {
+   "mmsi": "471092000",
+   "message_count": 14,
+   "last_seen_utc": "2026-10-13 21:46:31.644378941 +0000 UTC",
+   "ship_name": "AZIZI               ",
+   "call_sign": "A6E2822",
+   "eta": {
+    "Day": 0,
+    "Hour": 0,
+    "Minute": 0,
+    "Month": 0
+   },
+   "dimension": {
+    "A": 0,
+    "B": 0,
+    "C": 0,
+    "D": 0
+   },
+   "latitude": 25.095818333333334,
+   "longitude": 55.144376666666666,
+   "sog_knots": 0,
+   "cog_deg": 360,
+   "true_heading": 221,
+   "last_position_utc": "2026-10-13 21:46:31.644378941 +0000 UTC"
+  },
+  "620999435": {
+   "mmsi": "620999435",
+   "message_count": 12,
+   "last_seen_utc": "2026-10-13 21:47:26.113581356 +0000 UTC",
+   "ship_name": "D6A3434",
+   "call_sign": "D6A3434",
+   "destination": "BASRAH              ",
+   "eta": {
+    "Day": 27,
+    "Hour": 1,
+    "Minute": 0,
+    "Month": 11
+   },
+   "dimension": {
+    "A": 53,
+    "B": 53,
+    "C": 6,
+    "D": 6
+   },
+   "latitude": 25.274301666666666,
+   "longitude": 55.25888333333333,
+   "sog_knots": 0,
+   "cog_deg": 113.7,
+   "true_heading": 511,
+   "last_position_utc": "2026-10-13 21:44:42.355093612 +0000 UTC"
+  },
+  "245508000": {
+   "mmsi": "245508000",
+   "message_count": 31,
+   "last_seen_utc": "2026-10-13 21:43:03.894312113 +0000 UTC",
+   "ship_name": "HAM 318             ",
+   "call_sign": "PBDJ   ",
+   "destination": "DREDGE AREA - NAIA  ",
+   "eta": {
+    "Day": 4,
+    "Hour": 5,
+    "Minute": 0,
+    "Month": 8
+   },
+   "dimension": {
+    "A": 200,
+    "B": 27,
+    "C": 24,
+    "D": 8
+   },
+   "latitude": 25.184873333333332,
+   "longitude": 55.135014999999996,
+   "sog_knots": 10.6,
+   "cog_deg": 303.2,
+   "true_heading": 307,
+   "last_position_utc": "2026-10-13 21:43:03.894312113 +0000 UTC"
+  },
+  "232008023": {
+   "mmsi": "232008023",
+   "message_count": 36,
+   "last_seen_utc": "2026-10-13 21:39:04.901482878 +0000 UTC",
+   "ship_name": "MCS ANNEKE 2        ",
+   "latitude": 25.19151,
+   "longitude": 55.203986666666665,
+   "sog_knots": 0,
+   "cog_deg": 309.2,
+   "true_heading": 43,
+   "last_position_utc": "2026-10-13 21:39:04.901482878 +0000 UTC",
+   "call_sign": "MBAH3  ",
+   "destination": "NAIA ISLAND         ",
+   "eta": {
+    "Day": 22,
+    "Hour": 3,
+    "Minute": 38,
+    "Month": 9
+   },
+   "dimension": {
+    "A": 13,
+    "B": 14,
+    "C": 3,
+    "D": 8
+   }
+  },
+  "470745000": {
+   "mmsi": "470745000",
+   "message_count": 6,
+   "last_seen_utc": "2026-10-13 21:05:00.934076459 +0000 UTC",
+   "ship_name": "SHOJAA              ",
+   "latitude": 25.008243333333333,
+   "longitude": 55.050264999999996,
+   "sog_knots": 0.6,
+   "cog_deg": 201.9,
+   "true_heading": 174,
+   "last_position_utc": "2026-10-13 21:05:00.934076459 +0000 UTC"
+  },
+  "352006184": {
+   "mmsi": "352006184",
+   "message_count": 10,
+   "last_seen_utc": "2026-10-13 21:26:51.605574217 +0000 UTC",
+   "ship_name": "HEA ECO 4           ",
+   "latitude": 25.27301333333333,
+   "longitude": 55.259495,
+   "sog_knots": 0,
+   "cog_deg": 304.9,
+   "true_heading": 16,
+   "last_position_utc": "2026-10-13 21:26:51.605574217 +0000 UTC",
+   "call_sign": "3E7808 ",
+   "destination": "DBX                 ",
+   "eta": {
+    "Day": 26,
+    "Hour": 8,
+    "Minute": 0,
+    "Month": 9
+   },
+   "dimension": {
+    "A": 23,
+    "B": 47,
+    "C": 8,
+    "D": 10
+   }
+  },
+  "538011596": {
+   "mmsi": "538011596",
+   "message_count": 2,
+   "last_seen_utc": "2026-10-13 20:00:34.369456896 +0000 UTC",
+   "ship_name": "V7A3182",
+   "latitude": 25.008058333333334,
+   "longitude": 55.04688833333333,
+   "sog_knots": 0.7,
+   "cog_deg": 89.1,
+   "true_heading": 313,
+   "last_position_utc": "2026-10-13 19:54:01.018307491 +0000 UTC",
+   "call_sign": "V7A3182",
+   "destination": "AEJEA               ",
+   "eta": {
+    "Day": 13,
+    "Hour": 9,
+    "Minute": 48,
+    "Month": 10
+   },
+   "dimension": {
+    "A": 129,
+    "B": 21,
+    "C": 5,
+    "D": 18
+   }
+  },
+  "987170327": {
+   "mmsi": "987170327",
+   "message_count": 6,
+   "last_seen_utc": "2026-10-13 21:18:29.045023791 +0000 UTC",
+   "ship_name": "LESVOS IX",
+   "latitude": 25.027608333333333,
+   "longitude": 55.079458333333335,
+   "sog_knots": 0,
+   "cog_deg": 360,
+   "true_heading": 511,
+   "last_position_utc": "2026-10-13 21:18:29.045023791 +0000 UTC"
+  },
+  "236112532": {
+   "mmsi": "236112532",
+   "message_count": 16,
+   "last_seen_utc": "2026-10-13 21:39:36.420715643 +0000 UTC",
+   "ship_name": "KALA ",
+   "latitude": 25.086201666666668,
+   "longitude": 55.146188333333335,
+   "sog_knots": 0,
+   "cog_deg": 360,
+   "true_heading": 511,
+   "last_position_utc": "2026-10-13 21:33:13.821091676 +0000 UTC"
+  },
+  "403783470": {
+   "mmsi": "403783470",
+   "message_count": 16,
+   "last_seen_utc": "2026-10-13 21:46:53.351115255 +0000 UTC",
+   "ship_name": "MV JANA 37          ",
+   "latitude": 25.26991333333333,
+   "longitude": 55.25678166666667,
+   "sog_knots": 0,
+   "cog_deg": 277.8,
+   "true_heading": 105,
+   "last_position_utc": "2026-10-13 21:46:53.351115255 +0000 UTC"
+  },
+  "470080000": {
+   "mmsi": "470080000",
+   "message_count": 3,
+   "last_seen_utc": "2026-10-13 20:08:34.669816236 +0000 UTC",
+   "ship_name": "SEA LINE 1",
+   "latitude": 25.26989,
+   "longitude": 55.28255333333333,
+   "sog_knots": 0,
+   "cog_deg": 58.5,
+   "true_heading": 511,
+   "last_position_utc": "2026-10-13 20:08:34.669816236 +0000 UTC"
+  },
+  "471037000": {
+   "mmsi": "471037000",
+   "message_count": 9,
+   "last_seen_utc": "2026-10-13 21:44:42.356879459 +0000 UTC",
+   "latitude": 25.17533166666667,
+   "longitude": 55.21623,
+   "sog_knots": 0,
+   "cog_deg": 360,
+   "true_heading": 511,
+   "last_position_utc": "2026-10-13 21:44:42.356879459 +0000 UTC",
+   "ship_name": "ARRAKIS"
+  },
+  "574004990": {
+   "mmsi": "574004990",
+   "message_count": 4,
+   "last_seen_utc": "2026-10-13 21:28:08.00646877 +0000 UTC",
+   "ship_name": "PTSC SAO VANG       ",
+   "latitude": 25.271124999999998,
+   "longitude": 55.261295000000004,
+   "sog_knots": 0,
+   "cog_deg": 337.1,
+   "true_heading": 192,
+   "last_position_utc": "2026-10-13 21:28:08.00646877 +0000 UTC"
+  },
+  "352003706": {
+   "mmsi": "352003706",
+   "message_count": 7,
+   "last_seen_utc": "2026-10-13 21:26:40.696691339 +0000 UTC",
+   "ship_name": "3E5813 ",
+   "latitude": 25.00001166666667,
+   "longitude": 55.06211833333334,
+   "sog_knots": 0,
+   "cog_deg": 184.9,
+   "true_heading": 226,
+   "last_position_utc": "2026-10-13 21:07:12.027245206 +0000 UTC",
+   "call_sign": "3E5813 ",
+   "destination": "JEBEL ALI           ",
+   "eta": {
+    "Day": 9,
+    "Hour": 12,
+    "Minute": 0,
+    "Month": 10
+   },
+   "dimension": {
+    "A": 157,
+    "B": 26,
+    "C": 14,
+    "D": 14
+   }
+  },
+  "620999331": {
+   "mmsi": "620999331",
+   "message_count": 11,
+   "last_seen_utc": "2026-10-13 21:20:18.390417622 +0000 UTC",
+   "ship_name": "ALPINE1",
+   "latitude": 25.26532166666667,
+   "longitude": 55.258275000000005,
+   "sog_knots": 0,
+   "cog_deg": 40.3,
+   "true_heading": 511,
+   "last_position_utc": "2026-10-13 21:20:18.390417622 +0000 UTC"
+  },
+  "636024017": {
+   "mmsi": "636024017",
+   "message_count": 24,
+   "last_seen_utc": "2026-10-13 21:41:25.657039098 +0000 UTC",
+   "ship_name": "5LQO3  ",
+   "latitude": 25.271065,
+   "longitude": 55.25727833333334,
+   "sog_knots": 0,
+   "cog_deg": 233.2,
+   "true_heading": 233,
+   "last_position_utc": "2026-10-13 21:39:58.335688738 +0000 UTC",
+   "call_sign": "5LQO3  ",
+   "destination": "SHARJAH             ",
+   "eta": {
+    "Day": 2,
+    "Hour": 22,
+    "Minute": 30,
+    "Month": 8
+   },
+   "dimension": {
+    "A": 21,
+    "B": 55,
+    "C": 3,
+    "D": 14
+   }
+  },
+  "370031000": {
+   "mmsi": "370031000",
+   "message_count": 17,
+   "last_seen_utc": "2026-10-13 21:47:04.163036225 +0000 UTC",
+   "ship_name": "DSL MARINER",
+   "latitude": 25.301798333333334,
+   "longitude": 55.33099666666667,
+   "sog_knots": 0,
+   "cog_deg": 0,
+   "true_heading": 216,
+   "last_position_utc": "2026-10-13 21:47:04.163036225 +0000 UTC",
+   "call_sign": "3FJE8",
+   "destination": "AE HAM",
+   "eta": {
+    "Day": 8,
+    "Hour": 6,
+    "Minute": 0,
+    "Month": 10
+   },
+   "dimension": {
+    "A": 93,
+    "B": 9,
+    "C": 8,
+    "D": 8
+   }
+  },
+  "620999369": {
+   "mmsi": "620999369",
+   "message_count": 3,
+   "last_seen_utc": "2026-10-13 20:52:49.081854223 +0000 UTC",
+   "ship_name": "MORGAN",
+   "latitude": 25.282590000000003,
+   "longitude": 55.26801666666667,
+   "sog_knots": 9,
+   "cog_deg": 0.5,
+   "true_heading": 511,
+   "last_position_utc": "2026-10-13 20:52:49.081854223 +0000 UTC"
+  },
+  "470259332": {
+   "mmsi": "470259332",
+   "message_count": 9,
+   "last_seen_utc": "2026-10-13 21:19:56.434857728 +0000 UTC",
+   "ship_name": "LULWAH T",
+   "latitude": 25.098059999999997,
+   "longitude": 55.143503333333335,
+   "sog_knots": 0,
+   "cog_deg": 360,
+   "true_heading": 511,
+   "last_position_utc": "2026-10-13 21:03:44.20304375 +0000 UTC"
+  },
+  "538006350": {
+   "mmsi": "538006350",
+   "message_count": 1,
+   "last_seen_utc": "2026-10-13 19:56:01.09076061 +0000 UTC",
+   "ship_name": "V7MF6",
+   "call_sign": "V7MF6",
+   "destination": "PORT RASHID ^5E5E5E5",
+   "eta": {
+    "Day": 13,
+    "Hour": 7,
+    "Minute": 0,
+    "Month": 10
+   },
+   "dimension": {
+    "A": 8,
+    "B": 51,
+    "C": 9,
+    "D": 4
+   }
+  },
+  "246862000": {
+   "mmsi": "246862000",
+   "message_count": 29,
+   "last_seen_utc": "2026-10-13 21:47:15.159119464 +0000 UTC",
+   "ship_name": "CRONUS              ",
+   "latitude": 25.187795,
+   "longitude": 55.20523,
+   "sog_knots": 0,
+   "cog_deg": 118.5,
+   "true_heading": 312,
+   "last_position_utc": "2026-10-13 21:47:15.159119464 +0000 UTC"
+  },
+  "300000000": {
+   "mmsi": "300000000",
+   "message_count": 7,
+   "last_seen_utc": "2026-10-13 21:44:42.251360167 +0000 UTC",
+   "ship_name": "DP 14",
+   "latitude": 25.196655,
+   "longitude": 55.22616333333334,
+   "sog_knots": 0,
+   "cog_deg": 360,
+   "true_heading": 121,
+   "last_position_utc": "2026-10-13 21:41:25.535201991 +0000 UTC",
+   "call_sign": "DP 14",
+   "destination": "JUMERAH",
+   "eta": {
+    "Day": 26,
+    "Hour": 12,
+    "Minute": 0,
+    "Month": 11
+   },
+   "dimension": {
+    "A": 0,
+    "B": 0,
+    "C": 0,
+    "D": 0
+   }
+  },
+  "470654000": {
+   "mmsi": "470654000",
+   "message_count": 15,
+   "last_seen_utc": "2026-10-13 21:32:30.136814948 +0000 UTC",
+   "ship_name": "AH1",
+   "latitude": 25.115863333333333,
+   "longitude": 55.159345,
+   "sog_knots": 0,
+   "cog_deg": 360,
+   "true_heading": 511,
+   "last_position_utc": "2026-10-13 21:17:24.683454968 +0000 UTC",
+   "call_sign": "AH1",
+   "destination": "PORT RASHID",
+   "eta": {
+    "Day": 12,
+    "Hour": 15,
+    "Minute": 30,
+    "Month": 10
+   },
+   "dimension": {
+    "A": 7,
+    "B": 5,
+    "C": 4,
+    "D": 21
+   }
+  },
+  "341291001": {
+   "mmsi": "341291001",
+   "message_count": 17,
+   "last_seen_utc": "2026-10-13 21:33:46.884249298 +0000 UTC",
+   "latitude": 25.09416,
+   "longitude": 55.13965833333334,
+   "sog_knots": 0.3,
+   "cog_deg": 67.1,
+   "true_heading": 511,
+   "last_position_utc": "2026-10-13 21:33:46.884249298 +0000 UTC",
+   "ship_name": "LADY MAIA",
+   "call_sign": "V4ML5",
+   "eta": {
+    "Day": 0,
+    "Hour": 24,
+    "Minute": 60,
+    "Month": 0
+   },
+   "dimension": {
+    "A": 16,
+    "B": 16,
+    "C": 3,
+    "D": 3
+   }
+  },
+  "352001814": {
+   "mmsi": "352001814",
+   "message_count": 10,
+   "last_seen_utc": "2026-10-13 21:41:25.764335527 +0000 UTC",
+   "ship_name": "BGMS SUPERB         ",
+   "latitude": 25.273221666666664,
+   "longitude": 55.26014166666666,
+   "sog_knots": 0,
+   "cog_deg": 276.3,
+   "true_heading": 511,
+   "last_position_utc": "2026-10-13 21:41:25.764335527 +0000 UTC",
+   "call_sign": "3E2631 ",
+   "destination": "DMC DUBAI/UAE       ",
+   "eta": {
+    "Day": 28,
+    "Hour": 7,
+    "Minute": 0,
+    "Month": 9
+   },
+   "dimension": {
+    "A": 13,
+    "B": 50,
+    "C": 3,
+    "D": 14
+   }
+  },
+  "341089001": {
+   "mmsi": "341089001",
+   "message_count": 30,
+   "last_seen_utc": "2026-10-13 21:44:31.375443738 +0000 UTC",
+   "ship_name": "V4ER5  ",
+   "call_sign": "V4ER5  ",
+   "destination": "DUBAI MARINA        ",
+   "eta": {
+    "Day": 13,
+    "Hour": 19,
+    "Minute": 0,
+    "Month": 10
+   },
+   "dimension": {
+    "A": 25,
+    "B": 10,
+    "C": 5,
+    "D": 5
+   },
+   "latitude": 25.09283,
+   "longitude": 55.133375,
+   "sog_knots": 0,
+   "cog_deg": 360,
+   "true_heading": 511,
+   "last_position_utc": "2026-10-13 21:26:40.696172509 +0000 UTC"
+  },
+  "376303000": {
+   "mmsi": "376303000",
+   "message_count": 6,
+   "last_seen_utc": "2026-10-13 21:44:42.128256975 +0000 UTC",
+   "ship_name": "GLOBAL TIGER        ",
+   "latitude": 25.267335,
+   "longitude": 55.25639,
+   "sog_knots": 0,
+   "cog_deg": 243.2,
+   "true_heading": 511,
+   "last_position_utc": "2026-10-13 21:44:42.128256975 +0000 UTC"
+  },
+  "352005674": {
+   "mmsi": "352005674",
+   "message_count": 15,
+   "last_seen_utc": "2026-10-13 21:46:20.583037231 +0000 UTC",
+   "ship_name": "PACIFIC 38          ",
+   "latitude": 25.273478333333333,
+   "longitude": 55.25859333333334,
+   "sog_knots": 0,
+   "cog_deg": 205.7,
+   "true_heading": 511,
+   "last_position_utc": "2026-10-13 21:46:20.583037231 +0000 UTC",
+   "call_sign": "3E8895 ",
+   "destination": "DMC DUBAI           ",
+   "eta": {
+    "Day": 26,
+    "Hour": 16,
+    "Minute": 0,
+    "Month": 7
+   },
+   "dimension": {
+    "A": 25,
+    "B": 40,
+    "C": 10,
+    "D": 8
+   }
+  },
+  "538072321": {
+   "mmsi": "538072321",
+   "message_count": 3,
+   "last_seen_utc": "2026-10-13 21:09:12.033384245 +0000 UTC",
+   "latitude": 25.118346666666664,
+   "longitude": 55.141443333333335,
+   "sog_knots": 0,
+   "cog_deg": 360,
+   "true_heading": 511,
+   "last_position_utc": "2026-10-13 21:09:12.033384245 +0000 UTC",
+   "ship_name": "PERSEAS "
+  },
+  "235092929": {
+   "mmsi": "235092929",
+   "message_count": 14,
+   "last_seen_utc": "2026-10-13 21:42:20.083325355 +0000 UTC",
+   "ship_name": "GREYGOOSE OF ANTIBES",
+   "latitude": 25.092511666666667,
+   "longitude": 55.14012666666667,
+   "sog_knots": 0,
+   "cog_deg": 360,
+   "true_heading": 511,
+   "last_position_utc": "2026-10-13 21:40:09.09692518 +0000 UTC"
+  },
+  "470961000": {
+   "mmsi": "470961000",
+   "message_count": 13,
+   "last_seen_utc": "2026-10-13 21:31:02.701811227 +0000 UTC",
+   "ship_name": "SMY DUBAI MAGIC     ",
+   "latitude": 25.112268333333336,
+   "longitude": 55.154070000000004,
+   "sog_knots": 0,
+   "cog_deg": 360,
+   "true_heading": 511,
+   "last_position_utc": "2026-10-13 21:31:02.701811227 +0000 UTC",
+   "call_sign": "A6E3119",
+   "destination": "DUBAI               ",
+   "eta": {
+    "Day": 3,
+    "Hour": 11,
+    "Minute": 0,
+    "Month": 2
+   },
+   "dimension": {
+    "A": 90,
+    "B": 90,
+    "C": 10,
+    "D": 10
+   }
+  },
+  "471309000": {
+   "mmsi": "471309000",
+   "message_count": 16,
+   "last_seen_utc": "2026-10-13 21:41:25.534836879 +0000 UTC",
+   "ship_name": "XCLUSIVE 22",
+   "latitude": 25.089315,
+   "longitude": 55.140861666666666,
+   "sog_knots": 5,
+   "cog_deg": 132.6,
+   "true_heading": 511,
+   "last_position_utc": "2026-10-13 21:41:25.534836879 +0000 UTC"
+  },
+  "376506000": {
+   "mmsi": "376506000",
+   "message_count": 8,
+   "last_seen_utc": "2026-10-13 21:07:22.840228597 +0000 UTC",
+   "ship_name": "SK MAINSTAY         ",
+   "latitude": 25.273218333333332,
+   "longitude": 55.260621666666665,
+   "sog_knots": 0,
+   "cog_deg": 0.3,
+   "true_heading": 192,
+   "last_position_utc": "2026-10-13 21:07:22.840228597 +0000 UTC"
+  },
+  "377311000": {
+   "mmsi": "377311000",
+   "message_count": 9,
+   "last_seen_utc": "2026-10-13 21:18:50.837207667 +0000 UTC",
+   "ship_name": "GFS JADE",
+   "latitude": 25.36713,
+   "longitude": 55.375038333333336,
+   "sog_knots": 0,
+   "cog_deg": 360,
+   "true_heading": 59,
+   "last_position_utc": "2026-10-13 21:18:50.837207667 +0000 UTC"
+  },
+  "538007326": {
+   "mmsi": "538007326",
+   "message_count": 6,
+   "last_seen_utc": "2026-10-13 21:32:19.070203481 +0000 UTC",
+   "ship_name": "TOPAZ DON",
+   "latitude": 25.245933333333333,
+   "longitude": 55.26484333333334,
+   "sog_knots": 0,
+   "cog_deg": 175.4,
+   "true_heading": 302,
+   "last_position_utc": "2026-10-13 21:32:19.070203481 +0000 UTC",
+   "call_sign": "V7JL5",
+   "destination": "AE DDW",
+   "eta": {
+    "Day": 24,
+    "Hour": 23,
+    "Minute": 30,
+    "Month": 9
+   },
+   "dimension": {
+    "A": 16,
+    "B": 107,
+    "C": 6,
+    "D": 10
+   }
+  },
+  "470007912": {
+   "mmsi": "470007912",
+   "message_count": 21,
+   "last_seen_utc": "2026-10-13 21:47:04.206493701 +0000 UTC",
+   "ship_name": "PLC 02",
+   "latitude": 25.176941666666668,
+   "longitude": 55.214955,
+   "sog_knots": 0,
+   "cog_deg": 360,
+   "true_heading": 511,
+   "last_position_utc": "2026-10-13 21:47:04.206493701 +0000 UTC"
+  },
+  "671153100": {
+   "mmsi": "671153100",
+   "message_count": 19,
+   "last_seen_utc": "2026-10-13 21:45:04.098765267 +0000 UTC",
+   "ship_name": "MAG PEARL",
+   "latitude": 25.264833333333335,
+   "longitude": 55.258685,
+   "sog_knots": 0,
+   "cog_deg": 114,
+   "true_heading": 511,
+   "last_position_utc": "2026-10-13 21:45:04.098765267 +0000 UTC",
+   "call_sign": "5VHH9",
+   "eta": {
+    "Day": 0,
+    "Hour": 0,
+    "Minute": 0,
+    "Month": 0
+   },
+   "dimension": {
+    "A": 86,
+    "B": 6,
+    "C": 10,
+    "D": 6
+   }
+  },
+  "538007865": {
+   "mmsi": "538007865",
+   "message_count": 15,
+   "last_seen_utc": "2026-10-13 21:46:42.332700913 +0000 UTC",
+   "ship_name": "DTA 8               ",
+   "latitude": 25.269961666666667,
+   "longitude": 55.28281666666667,
+   "sog_knots": 0,
+   "cog_deg": 296.3,
+   "true_heading": 131,
+   "last_position_utc": "2026-10-13 21:46:42.332700913 +0000 UTC"
+  },
+  "471314000": {
+   "mmsi": "471314000",
+   "message_count": 14,
+   "last_seen_utc": "2026-10-13 21:43:47.587960441 +0000 UTC",
+   "ship_name": "HATERAS",
+   "latitude": 25.09147,
+   "longitude": 55.139786666666666,
+   "sog_knots": 0,
+   "cog_deg": 335.4,
+   "true_heading": 511,
+   "last_position_utc": "2026-10-13 21:41:25.661225285 +0000 UTC"
+  },
+  "518100834": {
+   "mmsi": "518100834",
+   "message_count": 6,
+   "last_seen_utc": "2026-10-13 21:24:18.507648116 +0000 UTC",
+   "ship_name": "MIKASA",
+   "latitude": 25.10044333333333,
+   "longitude": 55.13585333333333,
+   "sog_knots": 0,
+   "cog_deg": 360,
+   "true_heading": 511,
+   "last_position_utc": "2026-10-13 21:24:18.507648116 +0000 UTC"
+  },
+  "470356000": {
+   "mmsi": "470356000",
+   "message_count": 6,
+   "last_seen_utc": "2026-10-13 20:53:21.652463097 +0000 UTC",
+   "ship_name": "MAYSAN",
+   "latitude": 25.175316666666667,
+   "longitude": 55.21628833333333,
+   "sog_knots": 0,
+   "cog_deg": 360,
+   "true_heading": 511,
+   "last_position_utc": "2026-10-13 20:53:21.652463097 +0000 UTC"
+  },
+  "403283690": {
+   "mmsi": "403283690",
+   "message_count": 6,
+   "last_seen_utc": "2026-10-13 20:54:38.274474705 +0000 UTC",
+   "ship_name": "RAWABI 5            ",
+   "latitude": 25.250315,
+   "longitude": 55.27014666666666,
+   "sog_knots": 0,
+   "cog_deg": 309.8,
+   "true_heading": 304,
+   "last_position_utc": "2026-10-13 20:54:38.274474705 +0000 UTC"
+  },
+  "471110000": {
+   "mmsi": "471110000",
+   "message_count": 13,
+   "last_seen_utc": "2026-10-13 21:44:42.353239346 +0000 UTC",
+   "ship_name": "LEOPARD OF DUBAI 2",
+   "latitude": 25.112748333333332,
+   "longitude": 55.154239999999994,
+   "sog_knots": 0,
+   "cog_deg": 360,
+   "true_heading": 134,
+   "last_position_utc": "2026-10-13 21:44:42.353239346 +0000 UTC",
+   "call_sign": "A6E2020",
+   "destination": "LOGO ISLAND",
+   "eta": {
+    "Day": 13,
+    "Hour": 11,
+    "Minute": 30,
+    "Month": 4
+   },
+   "dimension": {
+    "A": 0,
+    "B": 0,
+    "C": 0,
+    "D": 0
+   }
+  },
+  "352003258": {
+   "mmsi": "352003258",
+   "message_count": 3,
+   "last_seen_utc": "2026-10-13 20:11:40.685584412 +0000 UTC",
+   "ship_name": "GRAND MARINER       ",
+   "latitude": 25.276419999999998,
+   "longitude": 55.258975,
+   "sog_knots": 0,
+   "cog_deg": 53.6,
+   "true_heading": 184,
+   "last_position_utc": "2026-10-13 20:11:40.685584412 +0000 UTC"
+  },
+  "232039327": {
+   "mmsi": "232039327",
+   "message_count": 6,
+   "last_seen_utc": "2026-10-13 21:38:30.914979121 +0000 UTC",
+   "ship_name": "GRACE 13",
+   "latitude": 25.110556666666664,
+   "longitude": 55.13435833333333,
+   "sog_knots": 0,
+   "cog_deg": 360,
+   "true_heading": 511,
+   "last_position_utc": "2026-10-13 21:38:30.914979121 +0000 UTC"
+  },
+  "353484000": {
+   "mmsi": "353484000",
+   "message_count": 2,
+   "last_seen_utc": "2026-10-13 20:36:04.088239504 +0000 UTC",
+   "latitude": 25.900466666666667,
+   "longitude": 55.496206666666666,
+   "sog_knots": 8.2,
+   "cog_deg": 235.3,
+   "true_heading": 237,
+   "last_position_utc": "2026-10-13 20:36:04.088239504 +0000 UTC"
+  },
+  "471627000": {
+   "mmsi": "471627000",
+   "message_count": 5,
+   "last_seen_utc": "2026-10-13 21:00:05.781104616 +0000 UTC",
+   "ship_name": "OCEAN VOYAGER",
+   "latitude": 25.271586666666668,
+   "longitude": 55.28506,
+   "sog_knots": 0,
+   "cog_deg": 62.8,
+   "true_heading": 140,
+   "last_position_utc": "2026-10-13 21:00:05.781104616 +0000 UTC"
+  },
+  "470213600": {
+   "mmsi": "470213600",
+   "message_count": 16,
+   "last_seen_utc": "2026-10-13 21:21:02.074413632 +0000 UTC",
+   "latitude": 25.096308333333333,
+   "longitude": 55.144310000000004,
+   "sog_knots": 0.1,
+   "cog_deg": 360,
+   "true_heading": 511,
+   "last_position_utc": "2026-10-13 21:21:02.074413632 +0000 UTC",
+   "ship_name": "AMIRA 1"
+  },
+  "232028340": {
+   "mmsi": "232028340",
+   "message_count": 10,
+   "last_seen_utc": "2026-10-13 21:21:34.795779552 +0000 UTC",
+   "ship_name": "FAT BOY",
+   "latitude": 25.0729,
+   "longitude": 55.13613,
+   "sog_knots": 0.1,
+   "cog_deg": 360,
+   "true_heading": 511,
+   "last_position_utc": "2026-10-13 21:21:34.795779552 +0000 UTC"
+  },
+  "341143001": {
+   "mmsi": "341143001",
+   "message_count": 3,
+   "last_seen_utc": "2026-10-13 21:46:42.404209751 +0000 UTC",
+   "latitude": 25.118173333333335,
+   "longitude": 55.141135,
+   "sog_knots": 0,
+   "cog_deg": 360,
+   "true_heading": 511,
+   "last_position_utc": "2026-10-13 21:46:42.404209751 +0000 UTC",
+   "ship_name": "FANSEY"
+  },
+  "352007072": {
+   "mmsi": "352007072",
+   "message_count": 5,
+   "last_seen_utc": "2026-10-13 21:44:21.32642763 +0000 UTC",
+   "ship_name": "HOA2718",
+   "latitude": 25.268031666666666,
+   "longitude": 55.26091833333333,
+   "sog_knots": 0,
+   "cog_deg": 285.2,
+   "true_heading": 12,
+   "last_position_utc": "2026-10-13 21:31:02.789712846 +0000 UTC",
+   "call_sign": "HOA2718",
+   "destination": "SEATRAIL  DMC       ",
+   "eta": {
+    "Day": 12,
+    "Hour": 16,
+    "Minute": 0,
+    "Month": 10
+   },
+   "dimension": {
+    "A": 9,
+    "B": 28,
+    "C": 6,
+    "D": 2
+   }
+  },
+  "538071219": {
+   "mmsi": "538071219",
+   "message_count": 5,
+   "last_seen_utc": "2026-10-13 21:16:18.013132743 +0000 UTC",
+   "ship_name": "AURORA              ",
+   "latitude": 25.146821666666664,
+   "longitude": 55.188665,
+   "sog_knots": 0,
+   "cog_deg": 150.8,
+   "true_heading": 126,
+   "last_position_utc": "2026-10-13 21:16:18.013132743 +0000 UTC"
+  },
+  "352002595": {
+   "mmsi": "352002595",
+   "message_count": 10,
+   "last_seen_utc": "2026-10-13 21:43:36.707386889 +0000 UTC",
+   "ship_name": "5 PLANETS",
+   "latitude": 25.271845,
+   "longitude": 55.26114166666667,
+   "sog_knots": 0,
+   "cog_deg": 267.7,
+   "true_heading": 511,
+   "last_position_utc": "2026-10-13 21:43:36.707386889 +0000 UTC"
+  },
+  "341948000": {
+   "mmsi": "341948000",
+   "message_count": 15,
+   "last_seen_utc": "2026-10-13 21:40:52.766172657 +0000 UTC",
+   "ship_name": "SEA EAGLE           ",
+   "latitude": 25.265015000000002,
+   "longitude": 55.25818,
+   "sog_knots": 0,
+   "cog_deg": 310.1,
+   "true_heading": 189,
+   "last_position_utc": "2026-10-13 21:40:52.766172657 +0000 UTC",
+   "call_sign": "V4AP5  ",
+   "destination": "DMC                 ",
+   "eta": {
+    "Day": 7,
+    "Hour": 9,
+    "Minute": 0,
+    "Month": 9
+   },
+   "dimension": {
+    "A": 0,
+    "B": 0,
+    "C": 0,
+    "D": 0
+   }
+  },
+  "339981000": {
+   "mmsi": "339981000",
+   "message_count": 12,
+   "last_seen_utc": "2026-10-13 21:31:57.355332413 +0000 UTC",
+   "ship_name": "6YUQ8",
+   "call_sign": "6YUQ8",
+   "destination": "DUBAI DHM",
+   "eta": {
+    "Day": 2,
+    "Hour": 10,
+    "Minute": 0,
+    "Month": 5
+   },
+   "dimension": {
+    "A": 16,
+    "B": 16,
+    "C": 4,
+    "D": 4
+   },
+   "latitude": 25.239036666666667,
+   "longitude": 55.25323,
+   "sog_knots": 0,
+   "cog_deg": 360,
+   "true_heading": 511,
+   "last_position_utc": "2026-10-13 21:26:29.677350432 +0000 UTC"
+  },
+  "538071568": {
+   "mmsi": "538071568",
+   "message_count": 26,
+   "last_seen_utc": "2026-10-13 21:44:53.190085648 +0000 UTC",
+   "ship_name": "V7A4486",
+   "latitude": 25.119108333333333,
+   "longitude": 55.153029999999994,
+   "sog_knots": 0,
+   "cog_deg": 30.4,
+   "true_heading": 114,
+   "last_position_utc": "2026-10-13 21:43:25.86778174 +0000 UTC",
+   "call_sign": "V7A4486",
+   "destination": "PALM JUMEIRA EAST   ",
+   "eta": {
+    "Day": 28,
+    "Hour": 4,
+    "Minute": 15,
+    "Month": 9
+   },
+   "dimension": {
+    "A": 28,
+    "B": 26,
+    "C": 5,
+    "D": 5
+   }
+  },
+  "235063947": {
+   "mmsi": "235063947",
+   "message_count": 13,
+   "last_seen_utc": "2026-10-13 21:45:47.841559839 +0000 UTC",
+   "ship_name": "FAR TOO XSIV",
+   "latitude": 25.094336666666667,
+   "longitude": 55.139316666666666,
+   "sog_knots": 0,
+   "cog_deg": 27.3,
+   "true_heading": 511,
+   "last_position_utc": "2026-10-13 21:41:25.530269823 +0000 UTC"
+  },
+  "232050845": {
+   "mmsi": "232050845",
+   "message_count": 8,
+   "last_seen_utc": "2026-10-13 21:42:09.417102381 +0000 UTC",
+   "ship_name": "ESCAPADE",
+   "latitude": 25.090553333333332,
+   "longitude": 55.14065166666667,
+   "sog_knots": 0,
+   "cog_deg": 360,
+   "true_heading": 511,
+   "last_position_utc": "2026-10-13 21:42:09.417102381 +0000 UTC"
+  },
+  "375798000": {
+   "mmsi": "375798000",
+   "message_count": 11,
+   "last_seen_utc": "2026-10-13 21:44:53.298098606 +0000 UTC",
+   "ship_name": "J8B6273",
+   "latitude": 25.271963333333336,
+   "longitude": 55.257108333333335,
+   "sog_knots": 0,
+   "cog_deg": 265.5,
+   "true_heading": 192,
+   "last_position_utc": "2026-10-13 21:39:14.651964137 +0000 UTC",
+   "call_sign": "J8B6273",
+   "destination": "DMC  DUBAI          ",
+   "eta": {
+    "Day": 14,
+    "Hour": 15,
+    "Minute": 0,
+    "Month": 9
+   },
+   "dimension": {
+    "A": 19,
+    "B": 46,
+    "C": 9,
+    "D": 7
+   }
+  },
+  "255916072": {
+   "mmsi": "255916072",
+   "message_count": 10,
+   "last_seen_utc": "2026-10-13 21:43:58.613887416 +0000 UTC",
+   "ship_name": "CQ2501 ",
+   "latitude": 25.261146666666665,
+   "longitude": 55.260110000000005,
+   "sog_knots": 0,
+   "cog_deg": 320.9,
+   "true_heading": 198,
+   "last_position_utc": "2026-10-13 21:43:36.876236704 +0000 UTC",
+   "call_sign": "CQ2501 ",
+   "destination": "MUBARAK JETTY       ",
+   "eta": {
+    "Day": 23,
+    "Hour": 9,
+    "Minute": 0,
+    "Month": 9
+   },
+   "dimension": {
+    "A": 28,
+    "B": 92,
+    "C": 18,
+    "D": 7
+   }
+  },
+  "301000445": {
+   "mmsi": "301000445",
+   "message_count": 3,
+   "last_seen_utc": "2026-10-13 20:37:53.446302161 +0000 UTC",
+   "ship_name": "AYSA",
+   "latitude": 25.26757,
+   "longitude": 55.27921,
+   "sog_knots": 0,
+   "cog_deg": 63.8,
+   "true_heading": 511,
+   "last_position_utc": "2026-10-13 20:37:53.446302161 +0000 UTC"
+  },
+  "352006280": {
+   "mmsi": "352006280",
+   "message_count": 2,
+   "last_seen_utc": "2026-10-13 20:06:45.571623809 +0000 UTC",
+   "ship_name": "HMM NAMU            ",
+   "latitude": 25.471091666666666,
+   "longitude": 55.265858333333334,
+   "sog_knots": 3.9,
+   "cog_deg": 19.3,
+   "true_heading": 20,
+   "last_position_utc": "2026-10-13 20:06:45.571623809 +0000 UTC"
+  },
+  "620999520": {
+   "mmsi": "620999520",
+   "message_count": 10,
+   "last_seen_utc": "2026-10-13 21:22:42.592706872 +0000 UTC",
+   "ship_name": "S.J DANA            ",
+   "latitude": 25.30033,
+   "longitude": 55.333801666666666,
+   "sog_knots": 0,
+   "cog_deg": 11.5,
+   "true_heading": 35,
+   "last_position_utc": "2026-10-13 21:22:42.592706872 +0000 UTC"
+  },
+  "341116002": {
+   "mmsi": "341116002",
+   "message_count": 2,
+   "last_seen_utc": "2026-10-13 20:25:30.57502439 +0000 UTC",
+   "latitude": 26.369813333333333,
+   "longitude": 55.52864666666667,
+   "sog_knots": 7.4,
+   "cog_deg": 248,
+   "true_heading": 251,
+   "last_position_utc": "2026-10-13 20:25:30.57502439 +0000 UTC",
+   "ship_name": "NAVIS"
+  },
+  "470358000": {
+   "mmsi": "470358000",
+   "message_count": 12,
+   "last_seen_utc": "2026-10-13 21:45:36.760907211 +0000 UTC",
+   "ship_name": "ERRAI",
+   "latitude": 25.175214999999998,
+   "longitude": 55.21618,
+   "sog_knots": 0,
+   "cog_deg": 360,
+   "true_heading": 511,
+   "last_position_utc": "2026-10-13 21:39:05.526229703 +0000 UTC"
+  },
+  "471336000": {
+   "mmsi": "471336000",
+   "message_count": 11,
+   "last_seen_utc": "2026-10-13 21:42:09.196216575 +0000 UTC",
+   "ship_name": "A1 STARDOM",
+   "latitude": 25.093635,
+   "longitude": 55.136291666666665,
+   "sog_knots": 0,
+   "cog_deg": 360,
+   "true_heading": 511,
+   "last_position_utc": "2026-10-13 21:42:09.196216575 +0000 UTC"
+  },
+  "232059019": {
+   "mmsi": "232059019",
+   "message_count": 11,
+   "last_seen_utc": "2026-10-13 21:38:41.710085235 +0000 UTC",
+   "ship_name": "LADY FAYALIA",
+   "latitude": 25.099221666666665,
+   "longitude": 55.144665,
+   "sog_knots": 0,
+   "cog_deg": 360,
+   "true_heading": 511,
+   "last_position_utc": "2026-10-13 21:38:41.710085235 +0000 UTC"
+  },
+  "470685000": {
+   "mmsi": "470685000",
+   "message_count": 17,
+   "last_seen_utc": "2026-10-13 21:39:03.542813189 +0000 UTC",
+   "ship_name": "DTA-3",
+   "latitude": 25.27087,
+   "longitude": 55.28407,
+   "sog_knots": 0,
+   "cog_deg": 360,
+   "true_heading": 511,
+   "last_position_utc": "2026-10-13 21:39:03.542813189 +0000 UTC",
+   "call_sign": "A6E2611",
+   "destination": "DUBAI",
+   "eta": {
+    "Day": 13,
+    "Hour": 0,
+    "Minute": 0,
+    "Month": 8
+   },
+   "dimension": {
+    "A": 11,
+    "B": 36,
+    "C": 4,
+    "D": 4
+   }
+  },
+  "209700000": {
+   "mmsi": "209700000",
+   "message_count": 5,
+   "last_seen_utc": "2026-10-13 20:39:44.752125954 +0000 UTC",
+   "ship_name": "DUBAI ALLIANCE      ",
+   "call_sign": "5BHW5  ",
+   "destination": "AJMAN               ",
+   "eta": {
+    "Day": 4,
+    "Hour": 6,
+    "Minute": 0,
+    "Month": 10
+   },
+   "dimension": {
+    "A": 100,
+    "B": 21,
+    "C": 9,
+    "D": 9
+   },
+   "latitude": 25.460323333333335,
+   "longitude": 55.36544,
+   "sog_knots": 0,
+   "cog_deg": 298.6,
+   "true_heading": 72,
+   "last_position_utc": "2026-10-13 20:39:44.752125954 +0000 UTC"
+  },
+  "319032700": {
+   "mmsi": "319032700",
+   "message_count": 3,
+   "last_seen_utc": "2026-10-13 20:32:03.7974736 +0000 UTC",
+   "ship_name": "JOIA THE CROWN JEWEL",
+   "call_sign": "ZGAP4",
+   "destination": "AL ARAB MARINA",
+   "eta": {
+    "Day": 28,
+    "Hour": 14,
+    "Minute": 0,
+    "Month": 7
+   },
+   "dimension": {
+    "A": 25,
+    "B": 40,
+    "C": 4,
+    "D": 8
+   },
+   "latitude": 25.252164999999998,
+   "longitude": 55.18337666666666,
+   "sog_knots": 0,
+   "cog_deg": 262.3,
+   "true_heading": 2,
+   "last_position_utc": "2026-10-13 20:32:03.7974736 +0000 UTC"
+  },
+  "470010441": {
+   "mmsi": "470010441",
+   "message_count": 5,
+   "last_seen_utc": "2026-10-13 21:30:08.060483646 +0000 UTC",
+   "ship_name": "AC10441",
+   "latitude": 25.188948333333332,
+   "longitude": 55.209579999999995,
+   "sog_knots": 3.1,
+   "cog_deg": 188,
+   "true_heading": 511,
+   "last_position_utc": "2026-10-13 20:58:49.448760607 +0000 UTC",
+   "call_sign": "AC10441",
+   "destination": "                   ",
+   "eta": {
+    "Day": 1,
+    "Hour": 1,
+    "Minute": 1,
+    "Month": 1
+   },
+   "dimension": {
+    "A": 9,
+    "B": 3,
+    "C": 2,
+    "D": 2
+   }
+  },
+  "375762000": {
+   "mmsi": "375762000",
+   "message_count": 15,
+   "last_seen_utc": "2026-10-13 21:43:36.691963842 +0000 UTC",
+   "ship_name": "J8B4475",
+   "latitude": 25.271988333333336,
+   "longitude": 55.25689333333333,
+   "sog_knots": 0,
+   "cog_deg": 72.9,
+   "true_heading": 192,
+   "last_position_utc": "2026-10-13 21:38:56.340903292 +0000 UTC",
+   "call_sign": "J8B4475",
+   "destination": "DUBAI>UAE           ",
+   "eta": {
+    "Day": 20,
+    "Hour": 6,
+    "Minute": 30,
+    "Month": 7
+   },
+   "dimension": {
+    "A": 12,
+    "B": 46,
+    "C": 8,
+    "D": 8
+   }
+  },
+  "538007868": {
+   "mmsi": "538007868",
+   "message_count": 2,
+   "last_seen_utc": "2026-10-13 20:34:15.120682478 +0000 UTC",
+   "ship_name": "DTA 11",
+   "latitude": 25.270356666666665,
+   "longitude": 55.283350000000006,
+   "sog_knots": 0,
+   "cog_deg": 360,
+   "true_heading": 137,
+   "last_position_utc": "2026-10-13 20:34:15.120682478 +0000 UTC"
+  },
+  "620800366": {
+   "mmsi": "620800366",
+   "message_count": 5,
+   "last_seen_utc": "2026-10-13 20:41:31.778465219 +0000 UTC",
+   "ship_name": "PEARL 2 ",
+   "call_sign": "009@9",
+   "destination": "0",
+   "eta": {
+    "Day": 1,
+    "Hour": 1,
+    "Minute": 1,
+    "Month": 1
+   },
+   "dimension": {
+    "A": 60,
+    "B": 18,
+    "C": 9,
+    "D": 8
+   },
+   "latitude": 25.305416666666666,
+   "longitude": 55.333295,
+   "sog_knots": 0,
+   "cog_deg": 279.7,
+   "true_heading": 511,
+   "last_position_utc": "2026-10-13 20:41:31.778465219 +0000 UTC"
+  },
+  "403642000": {
+   "mmsi": "403642000",
+   "message_count": 7,
+   "last_seen_utc": "2026-10-13 21:00:49.5852138 +0000 UTC",
+   "ship_name": "AMIRA               ",
+   "latitude": 25.009386666666668,
+   "longitude": 55.05003333333333,
+   "sog_knots": 0,
+   "cog_deg": 203.7,
+   "true_heading": 340,
+   "last_position_utc": "2026-10-13 21:00:49.5852138 +0000 UTC",
+   "call_sign": "HZKH   ",
+   "destination": "AE JEA              ",
+   "eta": {
+    "Day": 12,
+    "Hour": 20,
+    "Minute": 0,
+    "Month": 10
+   },
+   "dimension": {
+    "A": 147,
+    "B": 36,
+    "C": 13,
+    "D": 22
+   }
+  },
+  "232060557": {
+   "mmsi": "232060557",
+   "message_count": 9,
+   "last_seen_utc": "2026-10-13 21:45:47.620239858 +0000 UTC",
+   "ship_name": "NOTORIOUS I",
+   "latitude": 25.174770000000002,
+   "longitude": 55.21498666666666,
+   "sog_knots": 0,
+   "cog_deg": 360,
+   "true_heading": 511,
+   "last_position_utc": "2026-10-13 21:45:47.620239858 +0000 UTC"
+  },
+  "470854000": {
+   "mmsi": "470854000",
+   "message_count": 8,
+   "last_seen_utc": "2026-10-13 21:32:08.400904633 +0000 UTC",
+   "ship_name": "MULLET ANN",
+   "latitude": 25.203828333333334,
+   "longitude": 55.17123166666667,
+   "sog_knots": 0,
+   "cog_deg": 360,
+   "true_heading": 511,
+   "last_position_utc": "2026-10-13 21:32:08.400904633 +0000 UTC",
+   "call_sign": "A6E2334",
+   "destination": "AMALI ISLAND",
+   "eta": {
+    "Day": 13,
+    "Hour": 16,
+    "Minute": 0,
+    "Month": 10
+   },
+   "dimension": {
+    "A": 6,
+    "B": 17,
+    "C": 4,
+    "D": 3
+   }
+  },
+  "470576000": {
+   "mmsi": "470576000",
+   "message_count": 6,
+   "last_seen_utc": "2026-10-13 20:53:43.749396951 +0000 UTC",
+   "ship_name": "MILLENNIUM          ",
+   "latitude": 25.000746666666664,
+   "longitude": 55.049234999999996,
+   "sog_knots": 7.8,
+   "cog_deg": 190.3,
+   "true_heading": 188,
+   "last_position_utc": "2026-10-13 20:53:43.749396951 +0000 UTC"
+  },
+  "538009888": {
+   "mmsi": "538009888",
+   "message_count": 1,
+   "last_seen_utc": "2026-10-13 20:10:56.855250578 +0000 UTC",
+   "ship_name": "V7A5300",
+   "call_sign": "V7A5300",
+   "destination": "FOOD FOR IRAN",
+   "eta": {
+    "Day": 15,
+    "Hour": 12,
+    "Minute": 0,
+    "Month": 10
+   },
+   "dimension": {
+    "A": 193,
+    "B": 32,
+    "C": 16,
+    "D": 16
+   }
+  },
+  "538072109": {
+   "mmsi": "538072109",
+   "message_count": 6,
+   "last_seen_utc": "2026-10-13 21:41:25.536293542 +0000 UTC",
+   "ship_name": "JIMMY               ",
+   "latitude": 25.21058,
+   "longitude": 55.23405833333334,
+   "sog_knots": 0,
+   "cog_deg": 355,
+   "true_heading": 4,
+   "last_position_utc": "2026-10-13 21:41:25.536293542 +0000 UTC"
+  },
+  "235083529": {
+   "mmsi": "235083529",
+   "message_count": 17,
+   "last_seen_utc": "2026-10-13 21:47:04.203861431 +0000 UTC",
+   "ship_name": "2EAR6  ",
+   "latitude": 25.188898333333334,
+   "longitude": 55.20929666666667,
+   "sog_knots": 0,
+   "cog_deg": 267.3,
+   "true_heading": 281,
+   "last_position_utc": "2026-10-13 21:46:31.647079349 +0000 UTC",
+   "call_sign": "2EAR6  ",
+   "destination": "DUBAI               ",
+   "eta": {
+    "Day": 15,
+    "Hour": 21,
+    "Minute": 0,
+    "Month": 6
+   },
+   "dimension": {
+    "A": 12,
+    "B": 14,
+    "C": 7,
+    "D": 4
+   }
+  },
+  "352006106": {
+   "mmsi": "352006106",
+   "message_count": 10,
+   "last_seen_utc": "2026-10-13 21:40:09.168499436 +0000 UTC",
+   "ship_name": "3E8565 ",
+   "call_sign": "3E8565 ",
+   "destination": "DMC_DUBAI           ",
+   "eta": {
+    "Day": 29,
+    "Hour": 7,
+    "Minute": 0,
+    "Month": 6
+   },
+   "dimension": {
+    "A": 8,
+    "B": 51,
+    "C": 5,
+    "D": 10
+   },
+   "latitude": 25.271138333333333,
+   "longitude": 55.261473333333335,
+   "sog_knots": 0,
+   "cog_deg": 298.7,
+   "true_heading": 187,
+   "last_position_utc": "2026-10-13 21:17:56.216954672 +0000 UTC"
+  },
+  "572533220": {
+   "mmsi": "572533220",
+   "message_count": 7,
+   "last_seen_utc": "2026-10-13 21:44:42.257602085 +0000 UTC",
+   "ship_name": "RAWABI44            ",
+   "latitude": 25.27022,
+   "longitude": 55.25697666666667,
+   "sog_knots": 0,
+   "cog_deg": 301.1,
+   "true_heading": 101,
+   "last_position_utc": "2026-10-13 21:44:42.257602085 +0000 UTC"
+  },
+  "470920000": {
+   "mmsi": "470920000",
+   "message_count": 1,
+   "last_seen_utc": "2026-10-13 20:11:51.326040356 +0000 UTC",
+   "ship_name": "SEALINE 3           ",
+   "latitude": 25.269828333333333,
+   "longitude": 55.282516666666666,
+   "sog_knots": 0,
+   "cog_deg": 54.1,
+   "true_heading": 511,
+   "last_position_utc": "2026-10-13 20:11:51.326040356 +0000 UTC"
+  },
+  "645262000": {
+   "mmsi": "645262000",
+   "message_count": 2,
+   "last_seen_utc": "2026-10-13 21:23:02.376867446 +0000 UTC",
+   "latitude": 25.028938333333333,
+   "longitude": 55.00090333333333,
+   "sog_knots": 7,
+   "cog_deg": 103.9,
+   "true_heading": 511,
+   "last_position_utc": "2026-10-13 21:23:02.376867446 +0000 UTC"
+  },
+  "408890000": {
+   "mmsi": "408890000",
+   "message_count": 6,
+   "last_seen_utc": "2026-10-13 21:41:25.664502753 +0000 UTC",
+   "ship_name": "HADI 50             ",
+   "call_sign": "A9D3439",
+   "destination": "DUBAI               ",
+   "eta": {
+    "Day": 15,
+    "Hour": 16,
+    "Minute": 30,
+    "Month": 3
+   },
+   "dimension": {
+    "A": 16,
+    "B": 32,
+    "C": 8,
+    "D": 6
+   },
+   "latitude": 25.273411666666668,
+   "longitude": 55.26002166666667,
+   "sog_knots": 0,
+   "cog_deg": 102.5,
+   "true_heading": 193,
+   "last_position_utc": "2026-10-13 21:41:25.664502753 +0000 UTC"
+  },
+  "470094000": {
+   "mmsi": "470094000",
+   "message_count": 13,
+   "last_seen_utc": "2026-10-13 21:46:20.669906315 +0000 UTC",
+   "ship_name": "HADDOCK ANN",
+   "latitude": 25.17689,
+   "longitude": 55.216188333333335,
+   "sog_knots": 0.1,
+   "cog_deg": 360,
+   "true_heading": 511,
+   "last_position_utc": "2026-10-13 21:46:20.669906315 +0000 UTC",
+   "call_sign": "A6E2070",
+   "eta": {
+    "Day": 0,
+    "Hour": 0,
+    "Minute": 0,
+    "Month": 9
+   },
+   "dimension": {
+    "A": 10,
+    "B": 5,
+    "C": 8,
+    "D": 12
+   }
+  },
+  "244070310": {
+   "mmsi": "244070310",
+   "message_count": 1,
+   "last_seen_utc": "2026-10-13 20:13:18.762500957 +0000 UTC",
+   "ship_name": "ALEXANDRA",
+   "latitude": 25.175126666666664,
+   "longitude": 55.215109999999996,
+   "sog_knots": 0,
+   "cog_deg": 148,
+   "true_heading": 511,
+   "last_position_utc": "2026-10-13 20:13:18.762500957 +0000 UTC"
+  },
+  "352003216": {
+   "mmsi": "352003216",
+   "message_count": 4,
+   "last_seen_utc": "2026-10-13 21:12:50.620089543 +0000 UTC",
+   "ship_name": "MAYYUN QASWARAH     ",
+   "latitude": 25.322883333333333,
+   "longitude": 55.06421666666667,
+   "sog_knots": 0.1,
+   "cog_deg": 3.3,
+   "true_heading": 57,
+   "last_position_utc": "2026-10-13 21:12:50.620089543 +0000 UTC"
+  },
+  "471375000": {
+   "mmsi": "471375000",
+   "message_count": 3,
+   "last_seen_utc": "2026-10-13 20:49:43.437335066 +0000 UTC",
+   "ship_name": "LINA 2",
+   "latitude": 25.091974999999998,
+   "longitude": 55.14028666666666,
+   "sog_knots": 0,
+   "cog_deg": 44.5,
+   "true_heading": 511,
+   "last_position_utc": "2026-10-13 20:13:40.735757787 +0000 UTC"
+  },
+  "620999307": {
+   "mmsi": "620999307",
+   "message_count": 2,
+   "last_seen_utc": "2026-10-13 20:19:51.921933678 +0000 UTC",
+   "ship_name": "    KAZEM           ",
+   "latitude": 25.272616666666668,
+   "longitude": 55.25958166666667,
+   "sog_knots": 0,
+   "cog_deg": 10.6,
+   "true_heading": 12,
+   "last_position_utc": "2026-10-13 20:19:51.921933678 +0000 UTC"
+  },
+  "341470000": {
+   "mmsi": "341470000",
+   "message_count": 2,
+   "last_seen_utc": "2026-10-13 20:43:53.86106228 +0000 UTC",
+   "latitude": 25.269816666666667,
+   "longitude": 55.26090333333333,
+   "sog_knots": 0,
+   "cog_deg": 314.8,
+   "true_heading": 286,
+   "last_position_utc": "2026-10-13 20:43:53.86106228 +0000 UTC",
+   "ship_name": "AQUA III"
+  },
+  "447008006": {
+   "mmsi": "447008006",
+   "message_count": 10,
+   "last_seen_utc": "2026-10-13 21:42:31.320083661 +0000 UTC",
+   "ship_name": "FANSEA",
+   "latitude": 25.090835000000002,
+   "longitude": 55.141814999999994,
+   "sog_knots": 0,
+   "cog_deg": 41.3,
+   "true_heading": 511,
+   "last_position_utc": "2026-10-13 21:42:31.320083661 +0000 UTC"
+  },
+  "572724220": {
+   "mmsi": "572724220",
+   "message_count": 11,
+   "last_seen_utc": "2026-10-13 21:43:04.006040067 +0000 UTC",
+   "ship_name": "00T2CH6",
+   "latitude": 25.27153666666667,
+   "longitude": 55.257275,
+   "sog_knots": 0,
+   "cog_deg": 89.9,
+   "true_heading": 103,
+   "last_position_utc": "2026-10-13 21:33:24.691560152 +0000 UTC",
+   "call_sign": "00T2CH6",
+   "destination": "DMC DUBAI           ",
+   "eta": {
+    "Day": 30,
+    "Hour": 4,
+    "Minute": 0,
+    "Month": 4
+   },
+   "dimension": {
+    "A": 14,
+    "B": 56,
+    "C": 10,
+    "D": 6
+   }
+  },
+  "620800385": {
+   "mmsi": "620800385",
+   "message_count": 1,
+   "last_seen_utc": "2026-10-13 20:21:08.435188072 +0000 UTC",
+   "ship_name": "KOUHYAR             ",
+   "latitude": 25.267033333333334,
+   "longitude": 55.27839166666667,
+   "sog_knots": 0.1,
+   "cog_deg": 325.2,
+   "true_heading": 511,
+   "last_position_utc": "2026-10-13 20:21:08.435188072 +0000 UTC"
+  },
+  "471281000": {
+   "mmsi": "471281000",
+   "message_count": 11,
+   "last_seen_utc": "2026-10-13 21:39:05.257168588 +0000 UTC",
+   "ship_name": "XCLUSIVE 23",
+   "latitude": 25.073596666666667,
+   "longitude": 55.136044999999996,
+   "sog_knots": 0,
+   "cog_deg": 360,
+   "true_heading": 511,
+   "last_position_utc": "2026-10-13 21:04:06.090316007 +0000 UTC"
+  },
+  "471273000": {
+   "mmsi": "471273000",
+   "message_count": 6,
+   "last_seen_utc": "2026-10-13 21:37:03.493416195 +0000 UTC",
+   "ship_name": "XCLUSIVE 9",
+   "latitude": 25.073625,
+   "longitude": 55.135999999999996,
+   "sog_knots": 0.1,
+   "cog_deg": 360,
+   "true_heading": 511,
+   "last_position_utc": "2026-10-13 21:37:03.493416195 +0000 UTC"
+  },
+  "572532220": {
+   "mmsi": "572532220",
+   "message_count": 1,
+   "last_seen_utc": "2026-10-13 20:23:52.305433699 +0000 UTC",
+   "ship_name": "RAWABI 43           ",
+   "latitude": 25.270373333333335,
+   "longitude": 55.257041666666666,
+   "sog_knots": 0,
+   "cog_deg": 163.3,
+   "true_heading": 104,
+   "last_position_utc": "2026-10-13 20:23:52.305433699 +0000 UTC"
+  },
+  "636017311": {
+   "mmsi": "636017311",
+   "message_count": 6,
+   "last_seen_utc": "2026-10-13 20:56:27.434148734 +0000 UTC",
+   "ship_name": "KPS ORHAN ALI KHAN  ",
+   "latitude": 25.409341666666666,
+   "longitude": 55.015315,
+   "sog_knots": 0,
+   "cog_deg": 42.5,
+   "true_heading": 49,
+   "last_position_utc": "2026-10-13 20:56:27.434148734 +0000 UTC",
+   "call_sign": "D5KH5  ",
+   "destination": "AEDXB               ",
+   "eta": {
+    "Day": 12,
+    "Hour": 16,
+    "Minute": 0,
+    "Month": 10
+   },
+   "dimension": {
+    "A": 250,
+    "B": 39,
+    "C": 22,
+    "D": 23
+   }
+  },
+  "572345220": {
+   "mmsi": "572345220",
+   "message_count": 13,
+   "last_seen_utc": "2026-10-13 21:47:26.006467674 +0000 UTC",
+   "ship_name": "RAWABI 37",
+   "latitude": 25.269588333333335,
+   "longitude": 55.256836666666665,
+   "sog_knots": 0,
+   "cog_deg": 261,
+   "true_heading": 102,
+   "last_position_utc": "2026-10-13 21:47:26.006467674 +0000 UTC"
+  },
+  "470041000": {
+   "mmsi": "470041000",
+   "message_count": 4,
+   "last_seen_utc": "2026-10-13 21:08:28.313917296 +0000 UTC",
+   "ship_name": "AL WASL 3           ",
+   "latitude": 25.271346666666666,
+   "longitude": 55.284263333333335,
+   "sog_knots": 0,
+   "cog_deg": 229.6,
+   "true_heading": 511,
+   "last_position_utc": "2026-10-13 21:08:28.313917296 +0000 UTC"
+  },
+  "374310000": {
+   "mmsi": "374310000",
+   "message_count": 3,
+   "last_seen_utc": "2026-10-13 20:37:20.664154963 +0000 UTC",
+   "ship_name": "CY ARABIAN          ",
+   "latitude": 25.984505000000002,
+   "longitude": 55.99119666666666,
+   "sog_knots": 1,
+   "cog_deg": 195.9,
+   "true_heading": 198,
+   "last_position_utc": "2026-10-13 20:37:20.664154963 +0000 UTC"
+  },
+  "314302000": {
+   "mmsi": "314302000",
+   "message_count": 1,
+   "last_seen_utc": "2026-10-13 20:31:09.239997605 +0000 UTC",
+   "ship_name": "SEAWAY              ",
+   "latitude": 25.947918333333334,
+   "longitude": 55.396341666666665,
+   "sog_knots": 0.1,
+   "cog_deg": 289.8,
+   "true_heading": 352,
+   "last_position_utc": "2026-10-13 20:31:09.239997605 +0000 UTC"
+  },
+  "533110715": {
+   "mmsi": "533110715",
+   "message_count": 4,
+   "last_seen_utc": "2026-10-13 21:21:23.851595616 +0000 UTC",
+   "ship_name": "AURORA X            ",
+   "call_sign": "9M3823 ",
+   "destination": "PORT RASHID         ",
+   "eta": {
+    "Day": 28,
+    "Hour": 11,
+    "Minute": 0,
+    "Month": 9
+   },
+   "dimension": {
+    "A": 23,
+    "B": 51,
+    "C": 7,
+    "D": 6
+   },
+   "latitude": 25.2631,
+   "longitude": 55.28395,
+   "sog_knots": 0,
+   "cog_deg": 213.5,
+   "true_heading": 213,
+   "last_position_utc": "2026-10-13 21:21:23.851595616 +0000 UTC"
+  },
+  "987170023": {
+   "mmsi": "987170023",
+   "message_count": 6,
+   "last_seen_utc": "2026-10-13 21:40:20.130461333 +0000 UTC",
+   "ship_name": "BARGE LESVOS V  ",
+   "latitude": 25.05698,
+   "longitude": 55.07588,
+   "sog_knots": 0.1,
+   "cog_deg": 167.9,
+   "true_heading": 511,
+   "last_position_utc": "2026-10-13 21:40:20.130461333 +0000 UTC"
+  },
+  "471004000": {
+   "mmsi": "471004000",
+   "message_count": 8,
+   "last_seen_utc": "2026-10-13 21:34:08.727114633 +0000 UTC",
+   "ship_name": "QUATTROELLE SHADOW  ",
+   "latitude": 25.116008333333333,
+   "longitude": 55.15952,
+   "sog_knots": 0,
+   "cog_deg": 82.2,
+   "true_heading": 67,
+   "last_position_utc": "2026-10-13 21:34:08.727114633 +0000 UTC",
+   "call_sign": "A6E2728",
+   "destination": "LOGO ISLAND         ",
+   "eta": {
+    "Day": 12,
+    "Hour": 18,
+    "Minute": 30,
+    "Month": 10
+   },
+   "dimension": {
+    "A": 12,
+    "B": 0,
+    "C": 0,
+    "D": 0
+   }
+  },
+  "341145002": {
+   "mmsi": "341145002",
+   "message_count": 3,
+   "last_seen_utc": "2026-10-13 21:26:18.790095888 +0000 UTC",
+   "latitude": 25.118608333333334,
+   "longitude": 55.14144833333333,
+   "sog_knots": 0,
+   "cog_deg": 360,
+   "true_heading": 511,
+   "last_position_utc": "2026-10-13 20:49:32.391044952 +0000 UTC"
+  },
+  "261005636": {
+   "mmsi": "261005636",
+   "message_count": 12,
+   "last_seen_utc": "2026-10-13 21:39:36.539150576 +0000 UTC",
+   "ship_name": "ARIELLA",
+   "latitude": 25.093131666666668,
+   "longitude": 55.138799999999996,
+   "sog_knots": 0,
+   "cog_deg": 360,
+   "true_heading": 511,
+   "last_position_utc": "2026-10-13 21:39:36.539150576 +0000 UTC"
+  },
+  "408945000": {
+   "mmsi": "408945000",
+   "message_count": 1,
+   "last_seen_utc": "2026-10-13 20:41:31.866348231 +0000 UTC",
+   "latitude": 25.291655,
+   "longitude": 55.22870833333333,
+   "sog_knots": 4.5,
+   "cog_deg": 273.6,
+   "true_heading": 280,
+   "last_position_utc": "2026-10-13 20:41:31.866348231 +0000 UTC"
+  },
+  "636017429": {
+   "mmsi": "636017429",
+   "message_count": 1,
+   "last_seen_utc": "2026-10-13 20:43:21.090250781 +0000 UTC",
+   "ship_name": "KPS ORKA SULTAN     ",
+   "latitude": 25.391431666666666,
+   "longitude": 55.01570666666667,
+   "sog_knots": 0.1,
+   "cog_deg": 317.5,
+   "true_heading": 48,
+   "last_position_utc": "2026-10-13 20:43:21.090250781 +0000 UTC"
+  },
+  "471469000": {
+   "mmsi": "471469000",
+   "message_count": 3,
+   "last_seen_utc": "2026-10-13 21:32:51.935294131 +0000 UTC",
+   "latitude": 25.092355,
+   "longitude": 55.13826666666667,
+   "sog_knots": 0,
+   "cog_deg": 286.3,
+   "true_heading": 511,
+   "last_position_utc": "2026-10-13 21:32:51.935294131 +0000 UTC",
+   "ship_name": "MELODY"
+  },
+  "471029000": {
+   "mmsi": "471029000",
+   "message_count": 7,
+   "last_seen_utc": "2026-10-13 21:44:20.826923701 +0000 UTC",
+   "ship_name": "SERDAL              ",
+   "latitude": 25.267155,
+   "longitude": 55.27867666666667,
+   "sog_knots": 0,
+   "cog_deg": 331.1,
+   "true_heading": 331,
+   "last_position_utc": "2026-10-13 21:44:20.826923701 +0000 UTC"
+  },
+  "620999626": {
+   "mmsi": "620999626",
+   "message_count": 1,
+   "last_seen_utc": "2026-10-13 20:44:48.369707783 +0000 UTC",
+   "ship_name": "KAREN",
+   "latitude": 25.269755,
+   "longitude": 55.282115,
+   "sog_knots": 0,
+   "cog_deg": 360,
+   "true_heading": 511,
+   "last_position_utc": "2026-10-13 20:44:48.369707783 +0000 UTC"
+  },
+  "222222222": {
+   "mmsi": "222222222",
+   "message_count": 1,
+   "last_seen_utc": "2026-10-13 20:45:42.977213373 +0000 UTC",
+   "ship_name": "AL SHINDAGA",
+   "latitude": 25.200471666666665,
+   "longitude": 55.227735,
+   "sog_knots": 0,
+   "cog_deg": 360,
+   "true_heading": 134,
+   "last_position_utc": "2026-10-13 20:45:42.977213373 +0000 UTC"
+  },
+  "645246000": {
+   "mmsi": "645246000",
+   "message_count": 5,
+   "last_seen_utc": "2026-10-13 21:32:19.31356365 +0000 UTC",
+   "ship_name": "DN79                ",
+   "latitude": 25.004465,
+   "longitude": 55.017466666666664,
+   "sog_knots": 0.2,
+   "cog_deg": 360,
+   "true_heading": 511,
+   "last_position_utc": "2026-10-13 21:32:19.31356365 +0000 UTC"
+  },
+  "620999367": {
+   "mmsi": "620999367",
+   "message_count": 2,
+   "last_seen_utc": "2026-10-13 20:50:48.763372086 +0000 UTC",
+   "ship_name": "SAHELPOL1",
+   "latitude": 25.26959833333333,
+   "longitude": 55.27596833333334,
+   "sog_knots": 0,
+   "cog_deg": 319.6,
+   "true_heading": 511,
+   "last_position_utc": "2026-10-13 20:50:48.763372086 +0000 UTC"
+  },
+  "377517000": {
+   "mmsi": "377517000",
+   "message_count": 1,
+   "last_seen_utc": "2026-10-13 20:49:10.685545235 +0000 UTC",
+   "ship_name": "TSC ZAAL",
+   "latitude": 25.270278333333334,
+   "longitude": 55.28294666666667,
+   "sog_knots": 0,
+   "cog_deg": 351.2,
+   "true_heading": 141,
+   "last_position_utc": "2026-10-13 20:49:10.685545235 +0000 UTC"
+  },
+  "244039378": {
+   "mmsi": "244039378",
+   "message_count": 3,
+   "last_seen_utc": "2026-10-13 21:37:36.357168654 +0000 UTC",
+   "ship_name": "TAPATAN",
+   "latitude": 25.112363333333334,
+   "longitude": 55.13468,
+   "sog_knots": 0,
+   "cog_deg": 360,
+   "true_heading": 511,
+   "last_position_utc": "2026-10-13 21:37:36.357168654 +0000 UTC"
+  },
+  "248139000": {
+   "mmsi": "248139000",
+   "message_count": 4,
+   "last_seen_utc": "2026-10-13 21:47:04.272593023 +0000 UTC",
+   "ship_name": "TRANSSHELF          ",
+   "latitude": 25.388493333333333,
+   "longitude": 55.07885,
+   "sog_knots": 0,
+   "cog_deg": 304.1,
+   "true_heading": 64,
+   "last_position_utc": "2026-10-13 21:47:04.272593023 +0000 UTC"
+  },
+  "377246000": {
+   "mmsi": "377246000",
+   "message_count": 5,
+   "last_seen_utc": "2026-10-13 21:27:13.333326965 +0000 UTC",
+   "ship_name": "STANFORD CHALLENGER ",
+   "latitude": 25.271115,
+   "longitude": 55.26112666666667,
+   "sog_knots": 0,
+   "cog_deg": 360,
+   "true_heading": 193,
+   "last_position_utc": "2026-10-13 21:27:13.333326965 +0000 UTC"
+  },
+  "471333000": {
+   "mmsi": "471333000",
+   "message_count": 2,
+   "last_seen_utc": "2026-10-13 20:55:43.933306459 +0000 UTC",
+   "ship_name": "NAMER",
+   "latitude": 25.004891666666666,
+   "longitude": 55.050293333333336,
+   "sog_knots": 6.3,
+   "cog_deg": 209.5,
+   "true_heading": 511,
+   "last_position_utc": "2026-10-13 20:55:43.933306459 +0000 UTC"
+  },
+  "620800564": {
+   "mmsi": "620800564",
+   "message_count": 3,
+   "last_seen_utc": "2026-10-13 21:43:47.686236973 +0000 UTC",
+   "ship_name": "DSLYEKTA",
+   "latitude": 25.29753,
+   "longitude": 55.331105,
+   "sog_knots": 0,
+   "cog_deg": 175.3,
+   "true_heading": 511,
+   "last_position_utc": "2026-10-13 21:43:47.686236973 +0000 UTC"
+  },
+  "470189000": {
+   "mmsi": "470189000",
+   "message_count": 1,
+   "last_seen_utc": "2026-10-13 21:03:44.34932896 +0000 UTC"
+  },
+  "645309000": {
+   "mmsi": "645309000",
+   "message_count": 10,
+   "last_seen_utc": "2026-10-13 21:46:20.581947602 +0000 UTC",
+   "ship_name": "GERARDUS MERCATOR   ",
+   "latitude": 25.00644833333333,
+   "longitude": 55.016711666666666,
+   "sog_knots": 0,
+   "cog_deg": 357.7,
+   "true_heading": 187,
+   "last_position_utc": "2026-10-13 21:46:20.581947602 +0000 UTC"
+  },
+  "341174001": {
+   "mmsi": "341174001",
+   "message_count": 2,
+   "last_seen_utc": "2026-10-13 21:36:30.83841031 +0000 UTC",
+   "ship_name": "LIWA                ",
+   "call_sign": "V4HY5  ",
+   "destination": "SAQR                ",
+   "eta": {
+    "Day": 10,
+    "Hour": 4,
+    "Minute": 0,
+    "Month": 10
+   },
+   "dimension": {
+    "A": 190,
+    "B": 35,
+    "C": 20,
+    "D": 12
+   },
+   "latitude": 26.035193333333332,
+   "longitude": 55.94609333333334,
+   "sog_knots": 0,
+   "cog_deg": 286.4,
+   "true_heading": 32,
+   "last_position_utc": "2026-10-13 21:36:30.83841031 +0000 UTC"
+  },
+  "650610136": {
+   "mmsi": "650610136",
+   "message_count": 3,
+   "last_seen_utc": "2026-10-13 21:40:52.873166623 +0000 UTC",
+   "ship_name": "HANI..SEA",
+   "latitude": 25.304021666666664,
+   "longitude": 55.33528166666667,
+   "sog_knots": 0,
+   "cog_deg": 76.2,
+   "true_heading": 511,
+   "last_position_utc": "2026-10-13 21:40:52.873166623 +0000 UTC"
+  },
+  "470450000": {
+   "mmsi": "470450000",
+   "message_count": 1,
+   "last_seen_utc": "2026-10-13 21:17:24.695060862 +0000 UTC",
+   "latitude": 25.021468333333335,
+   "longitude": 55.04325666666667,
+   "sog_knots": 6.4,
+   "cog_deg": 172.4,
+   "true_heading": 511,
+   "last_position_utc": "2026-10-13 21:17:24.695060862 +0000 UTC"
+  },
+  "470026000": {
+   "mmsi": "470026000",
+   "message_count": 2,
+   "last_seen_utc": "2026-10-13 21:30:18.964961985 +0000 UTC",
+   "ship_name": "AMOUAGE             ",
+   "latitude": 25.272491666666667,
+   "longitude": 55.27991,
+   "sog_knots": 0,
+   "cog_deg": 241.9,
+   "true_heading": 54,
+   "last_position_utc": "2026-10-13 21:30:18.964961985 +0000 UTC"
+  },
+  "374738000": {
+   "mmsi": "374738000",
+   "message_count": 1,
+   "last_seen_utc": "2026-10-13 21:18:50.847992665 +0000 UTC",
+   "ship_name": "DELTA  XV",
+   "latitude": 25.270719999999997,
+   "longitude": 55.28380666666667,
+   "sog_knots": 0,
+   "cog_deg": 53.7,
+   "true_heading": 147,
+   "last_position_utc": "2026-10-13 21:18:50.847992665 +0000 UTC"
+  },
+  "477236400": {
+   "mmsi": "477236400",
+   "message_count": 1,
+   "last_seen_utc": "2026-10-13 21:18:50.949875984 +0000 UTC",
+   "ship_name": "BELLAGIO            ",
+   "latitude": 25.404741666666666,
+   "longitude": 55.078335,
+   "sog_knots": 0,
+   "cog_deg": 281.5,
+   "true_heading": 61,
+   "last_position_utc": "2026-10-13 21:18:50.949875984 +0000 UTC"
+  },
+  "319208900": {
+   "mmsi": "319208900",
+   "message_count": 1,
+   "last_seen_utc": "2026-10-13 21:19:45.628179042 +0000 UTC",
+   "ship_name": "HAWA",
+   "latitude": 25.26132833333333,
+   "longitude": 55.27257,
+   "sog_knots": 0,
+   "cog_deg": 190.7,
+   "true_heading": 358,
+   "last_position_utc": "2026-10-13 21:19:45.628179042 +0000 UTC"
+  },
+  "636024796": {
+   "mmsi": "636024796",
+   "message_count": 1,
+   "last_seen_utc": "2026-10-13 21:22:29.381798066 +0000 UTC",
+   "ship_name": "MAG VICTORY         ",
+   "latitude": 25.265226666666667,
+   "longitude": 55.25734166666667,
+   "sog_knots": 0,
+   "cog_deg": 39.2,
+   "true_heading": 192,
+   "last_position_utc": "2026-10-13 21:22:29.381798066 +0000 UTC"
+  },
+  "577783000": {
+   "mmsi": "577783000",
+   "message_count": 2,
+   "last_seen_utc": "2026-10-13 21:28:30.050436134 +0000 UTC",
+   "ship_name": "BLUEX               ",
+   "latitude": 25.999275,
+   "longitude": 55.92941833333334,
+   "sog_knots": 9.7,
+   "cog_deg": 268.5,
+   "true_heading": 269,
+   "last_position_utc": "2026-10-13 21:28:30.050436134 +0000 UTC"
+  },
+  "436000417": {
+   "mmsi": "436000417",
+   "message_count": 1,
+   "last_seen_utc": "2026-10-13 21:27:35.215806724 +0000 UTC",
+   "ship_name": "CASPIAN SKUA        ",
+   "latitude": 25.469974999999998,
+   "longitude": 55.51100333333333,
+   "sog_knots": 0,
+   "cog_deg": 269.2,
+   "true_heading": 21,
+   "last_position_utc": "2026-10-13 21:27:35.215806724 +0000 UTC"
+  },
+  "645248000": {
+   "mmsi": "645248000",
+   "message_count": 2,
+   "last_seen_utc": "2026-10-13 21:38:53.508780179 +0000 UTC",
+   "ship_name": "DN76                ",
+   "latitude": 25.006913333333333,
+   "longitude": 55.017111666666665,
+   "sog_knots": 0,
+   "cog_deg": 352.6,
+   "true_heading": 511,
+   "last_position_utc": "2026-10-13 21:38:53.508780179 +0000 UTC"
+  },
+  "620999559": {
+   "mmsi": "620999559",
+   "message_count": 1,
+   "last_seen_utc": "2026-10-13 21:32:19.310837179 +0000 UTC",
+   "ship_name": "MT B2 OCEAN",
+   "latitude": 25.419793333333335,
+   "longitude": 55.293155,
+   "sog_knots": 0,
+   "cog_deg": 360,
+   "true_heading": 71,
+   "last_position_utc": "2026-10-13 21:32:19.310837179 +0000 UTC"
+  }
+ }
+}

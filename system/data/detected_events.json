@@ -1,0 +1,23 @@
+{
+  "generated_at_utc": "2026-10-14T06:11:43.702302+00:00",
+  "source_file": "/home/hatch/workspace/maritime-intel/system/data/ais_raw.jsonl",
+  "messages_read": 2215,
+  "position_reports_kept": 1786,
+  "vessels_seen": 212,
+  "detector_params": {
+    "gap_min_hours": 6.0,
+    "sts_max_dist_nm": 0.5,
+    "sts_max_sog_kt": 2.0,
+    "sts_min_duration_min": 30.0,
+    "sts_pair_window_min": 15.0
+  },
+  "corridor": {
+    "lat_min": 25.0,
+    "lat_max": 27.5,
+    "lon_min": 55.0,
+    "lon_max": 59.5
+  },
+  "provenance": "Candidate events only. Each event is derived from the source message log; no vessel is labelled sanctioned.",
+  "gap_events": [],
+  "sts_candidates": []
+}
